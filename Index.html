@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <style>
+        body { font-family: sans-serif; background: #f0f0f0; margin: 0; padding: 15px; text-align: center; }
+        .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+        .card { background: white; border-radius: 20px; padding: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+        .card img { width: 80px; margin-bottom: 10px; }
+        .price { font-weight: bold; margin: 10px 0; }
+        .btn-add { background: #31b545; color: white; border: none; width: 100%; padding: 10px; border-radius: 10px; font-weight: bold; }
+        .controls { display: flex; justify-content: space-between; align-items: center; }
+        .btn-min, .btn-plus { background: #31b545; color: white; border: none; width: 40px; height: 40px; border-radius: 10px; font-size: 20px; }
+        .btn-min { background: #e64d44; }
+        #main-btn { position: fixed; bottom: 20px; left: 5%; width: 90%; background: #31b545; color: white; border: none; padding: 15px; border-radius: 15px; font-weight: bold; display: none; }
+    </style>
+</head>
+<body>
+    <div class="grid" id="menu"></div>
+    <button id="main-btn" onclick="sendOrder()">СМОТРЕТЬ ЗАКАЗ</button>
+
+    <script>
+        let tg = window.Telegram.WebApp;
+        tg.expand();
+        let order = {};
+        const items = [
+            {id: 'piz', name: 'Пицца', price: 400, img: 'https://em-content.zobj.net/source/apple/391/pizza_1f355.png'},
+            {id: 'bur', name: 'Бургер', price: 320, img: 'https://em-content.zobj.net/source/apple/391/hamburger_1f354.png'},
+            {id: 'hot', name: 'Хотдог', price: 150, img: 'https://em-content.zobj.net/source/apple/391/hot-dog_1f32d.png'},
+            {id: 'don', name: 'Пончик', price: 70, img: 'https://em-content.zobj.net/source/apple/391/doughnut_1f369.png'}
+        ];
+
+        function render() {
+            const menu = document.getElementById('menu');
+            menu.innerHTML = '';
+            items.forEach(item => {
+                const count = order[item.id] || 0;
+                let html = `<div class="card"><img src="${item.img}"><div class="name">${item.name}</div><div class="price">${item.price} $</div>`;
+                if (count === 0) {
+                    html += `<button class="btn-add" onclick="update('${item.id}', 1)">+</button>`;
+                } else {
+                    html += `<div class="controls">
+                        <button class="btn-min" onclick="update('${item.id}', -1)">-</button>
+                        <span>${count}</span>
+                        <button class="btn-plus" onclick="update('${item.id}', 1)">+</button>
+                    </div>`;
+                }
+                html += `</div>`;
+                menu.innerHTML += html;
+            });
+            const total = Object.values(order).reduce((a, b) => a + b, 0);
+            document.getElementById('main-btn').style.display = total > 0 ? 'block' : 'none';
+        }
+
+        function update(id, delta) {
+            order[id] = (order[id] || 0) + delta;
+            if (order[id] <= 0) delete order[id];
+            render();
+        }
+
+        function sendOrder() {
+            let result = {};
+            items.forEach(i => { if(order[i.id]) result[i.id] = {name: i.name, count: order[i.id], price: i.price} });
+            tg.sendData(JSON.stringify(result));
+        }
+        render();
+    </script>
+</body>
+</html>
+
