@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>arm1</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{26, 192}, {16, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{16, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{16, 17}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{26, 192}, {16, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>arm2</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{136, 60}, {16, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{16, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{16, 17}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{136, 60}, {16, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>chassis</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 156}, {83, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{83, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{83, 11}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 156}, {83, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>door1</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 60}, {104, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 33}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 60}, {104, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>engine</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 172}, {56, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{56, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 16}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 172}, {56, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>exhaust1</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{78, 98}, {66, 15}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{66, 15}</string>
+			<key>spriteSourceSize</key>
+			<string>{66, 15}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{78, 98}, {66, 15}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>interior1</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{110, 44}, {5, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{5, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{5, 11}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{110, 44}, {5, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>interior2</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{62, 172}, {5, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{5, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{5, 16}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{62, 172}, {5, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>interior3</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{120, 44}, {6, 6}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{6, 6}</string>
+			<key>spriteSourceSize</key>
+			<string>{6, 6}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{120, 44}, {6, 6}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>panel1</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 138}, {85, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{85, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{85, 12}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 138}, {85, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>panel2</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 98}, {72, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{72, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 35}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 98}, {72, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>panel3</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{110, 0}, {46, 39}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{46, 39}</string>
+			<key>spriteSourceSize</key>
+			<string>{46, 39}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{110, 0}, {46, 39}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>roue1</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{110, 60}, {21, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{21, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{21, 21}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{110, 60}, {21, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>roue2</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 192}, {21, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{21, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{21, 21}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 192}, {21, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>window1</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 55}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{104, 55}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 55}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {104, 55}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{156, 216}</string>
+	</dict>
+</dict>
+</plist>

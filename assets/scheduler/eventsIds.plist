@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>events</key>
+	<array>
+		<string>eventExpo</string>
+		<string>eventMovie</string>
+		<string>eventLowRider</string>
+		<string>eventMonica</string>
+		<string>eventKart</string>
+		<string>eventMilkImpossible</string>
+		<string>eventMadMax</string>
+		<string>eventBozoku</string>
+		<string>eventCatman</string>
+		<string>eventJurassic</string>
+		<string>eventTime</string>
+		<string>eventFidelator</string>
+		<string>eventBeach</string>
+		<string>eventMotorJones</string>
+		<string>eventRallye</string>
+		<string>eventFatAndVicious</string>
+		<string>eventTrain</string>
+	</array>
+	<key>rolling_offers</key>
+	<array>
+		<string>offerGoldenCar1NewLayout</string>
+		<string>offerGrandPrixCar2</string>
+		<string>offerGreenCar2NewLayout</string>
+	</array>
+	<key>theme_offers</key>
+	<array>
+		<dict>
+			<key>startDate</key>
+			<string>2016-02-14 10:00</string>
+			<key>name</key>
+			<string>themeOfferValentine</string>
+		</dict>
+		<dict>
+			<key>startDate</key>
+			<string>2017-03-16 10:00</string>
+			<key>name</key>
+			<string>themeOfferSaintPatrick</string>
+		</dict>
+		<dict>
+			<key>startDate</key>
+			<string>2017-04-14 07:00</string>
+			<key>name</key>
+			<string>themeOfferEasterCar</string>
+		</dict>
+		<dict>
+			<key>startDate</key>
+			<string>2017-05-04 10:00</string>
+			<key>name</key>
+			<string>themeOffer4thMay</string>
+		</dict>
+		<dict>
+			<key>startDate</key>
+			<string>2017-06-22 10:00</string>
+			<key>name</key>
+			<string>themeOfferSummerCar</string>
+		</dict>
+		<dict>
+			<key>startDate</key>
+			<string>2017-07-04 10:00</string>
+			<key>name</key>
+			<string>themeOfferPatriotCar</string>
+		</dict>
+		<dict>
+			<key>startDate</key>
+			<string>2017-10-30 14:00</string>
+			<key>name</key>
+			<string>themeOfferHalloweenCar</string>
+		</dict>
+		<dict>
+			<key>startDate</key>
+			<string>2017-11-21 14:00</string>
+			<key>name</key>
+			<string>themeOfferBlackFriday</string>
+		</dict>
+		<dict>
+			<key>startDate</key>
+			<string>2017-12-23 14:00</string>
+			<key>name</key>
+			<string>themeOfferChristmas</string>
+		</dict>
+	</array>
+	<key>power_offers</key>
+	<array>
+		<string>powerPackTemplateOffer</string>
+		<string>mysteryCardsTemplateOffer</string>
+		<string>workersGatchaTemplateOffer</string>
+	</array>
+	<key>extra_data</key>
+	<array/>
+</dict>
+</plist>

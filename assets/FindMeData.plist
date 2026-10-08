@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstName</key>
+	<array>
+		<string>Skinny</string>
+		<string>Oily</string>
+		<string>Ugly</string>
+		<string>Dirty</string>
+		<string>Fat</string>
+		<string>Vicious</string>
+		<string>Evil</string>
+		<string>Renegade</string>
+		<string>Rebel</string>
+		<string>Dangerous</string>
+		<string>Kid</string>
+		<string>Stinky</string>
+		<string>Old</string>
+		<string>LOL</string>
+	</array>
+	<key>localizedFirstName</key>
+	<array>
+		<string>lbl_find_me_data_skinny</string>
+		<string>lbl_find_me_data_oily</string>
+		<string>lbl_find_me_data_ugly</string>
+		<string>lbl_find_me_data_dirty</string>
+		<string>lbl_find_me_data_fat</string>
+		<string>lbl_find_me_data_vicious</string>
+		<string>lbl_find_me_data_evil</string>
+		<string>lbl_find_me_data_renegade</string>
+		<string>lbl_find_me_data_rebel</string>
+		<string>lbl_find_me_data_dangerous</string>
+		<string>lbl_find_me_data_kid</string>
+		<string>lbl_find_me_data_stinky</string>
+		<string>lbl_find_me_data_old</string>
+		<string>lbl_find_me_data_lol</string>
+	</array>
+	<key>secondName</key>
+	<array>
+		<string>Dinoso</string>
+		<string>Joe</string>
+		<string>Jonny</string>
+		<string>Malcolm</string>
+		<string>Tony</string>
+		<string>Al</string>
+		<string>Jay</string>
+		<string>Robert</string>
+		<string>Bob</string>
+		<string>Pete</string>
+	</array>
+	<key>localizedSecondName</key>
+	<array>
+		<string>lbl_find_me_data_dinoso</string>
+		<string>lbl_find_me_data_joe</string>
+		<string>lbl_find_me_data_jonny</string>
+		<string>lbl_find_me_data_malcolm</string>
+		<string>lbl_find_me_data_tony</string>
+		<string>lbl_find_me_data_al</string>
+		<string>lbl_find_me_data_jay</string>
+		<string>lbl_find_me_data_robert</string>
+		<string>lbl_find_me_data_bob</string>
+		<string>lbl_find_me_data_pete</string>
+	</array>
+	<key>fellony</key>
+	<array>
+		<string>Grand theft auto</string>
+		<string>Urinated on Mayor&apos;s car</string>
+		<string>Identity theft</string>
+		<string>Pixels corruption</string>
+		<string>Stole air from tyres</string>
+		<string>Puts sugar in fuel tanks</string>
+		<string>Sold fuel as energy drink</string>
+		<string>Stole your donuts </string>
+		<string>Counterfeited cash</string>
+		<string>Pirated MetalMurpher 3 on DivX</string>
+		<string>Industrial spy</string>
+		<string>Put some bugs in the game</string>
+		<string>Stole candy from babies</string>
+		<string>Fashion police has a warrant</string>
+		<string>Kidnapped himself</string>
+		<string>Is insane in the membrane</string>
+		<string>Bit his own nose</string>
+		<string>Called CatMan &quot;the KittyBoy&quot;</string>
+		<string>Thrown a shoe at the President</string>
+		<string>Says you&apos;re &quot;uncool&quot;</string>
+		<string>Blackmailed CatMan</string>
+		<string>Stole Fat CheeZ unique flow</string>
+		<string>Needs quality time in jail</string>
+		<string>Insinuated CatMan use a litterbox</string>
+		<string>Stole your Facebook password</string>
+		<string>Never used a turning indicator</string>
+		<string>Parked his car like a ****</string>
+		<string>Carjacked his own car</string>
+		<string>Started a riot just for fun</string>
+		<string>Hurt my feelings</string>
+		<string>Stalked Keny Charter&apos;s home</string>
+		<string>Is bad for the environment</string>
+		<string>Emits bad vibrations</string>
+		<string>Smells TOO funny</string>
+		<string>Was late for your birthday party</string>
+		<string>Stole your Mystery Card</string>
+		<string>Pretends you&apos;re a liar</string>
+		<string>Is way too pixelated</string>
+		<string>Is a TROLL</string>
+		<string>Burned your car &quot;for fun&quot;</string>
+		<string>Cheated at online games</string>
+		<string>Stole fuel on moving cars</string>
+		<string>Said video games are dangerous</string>
+		<string>Looks very suspicious to me</string>
+		<string>Wants to see the world burn</string>
+		<string>Doesn&apos;t like your cars</string>
+		<string>Has no reason to be in the game</string>
+		<string>Comes from another game</string>
+		<string>Pretend to be the King of Versailles</string>
+		<string>Never returned your phone calls</string>
+		<string>Is always late in the morning</string>
+		<string>Has taken your last gum</string>
+		<string>Has stolen your mojo</string>
+		<string>Spoiled the end of the movie</string>
+		<string>Says humanity is doomed</string>
+		<string>Gave a bad review to the game</string>
+		<string>Doesn&apos;t like Donuts</string>
+		<string>Did the harlem shake on a plane</string>
+		<string>Did the hallway swim on a boat</string>
+		<string>Refuse to give up on jeans jacket</string>
+		<string>Is seriously messed up</string>
+		<string>Looks like he could use a brush</string>
+		<string>Made jokes about yo mama</string>
+		<string>Always speaks backwards</string>
+		<string>Stole your dealership flag</string>
+		<string>Says he went to Mars twice</string>
+		<string>Is sitting on the Iron Throne</string>
+	</array>
+	<key>localizedFellony</key>
+	<array>
+		<string>lbl_find_me_data_grand</string>
+		<string>lbl_find_me_data_mayor</string>
+		<string>lbl_find_me_data_theft</string>
+		<string>lbl_find_me_data_corruption</string>
+		<string>lbl_find_me_data_air</string>
+		<string>lbl_find_me_data_fuel</string>
+		<string>lbl_find_me_data_drink</string>
+		<string>lbl_find_me_data_stole</string>
+		<string>lbl_find_me_data_counterfeited</string>
+		<string>lbl_find_me_data_pirated</string>
+		<string>lbl_find_me_data_spy</string>
+		<string>lbl_find_me_data_bugs</string>
+		<string>lbl_find_me_data_candy</string>
+		<string>lbl_find_me_data_fashion</string>
+		<string>lbl_find_me_data_kidnapped</string>
+		<string>lbl_find_me_data_membrane</string>
+		<string>lbl_find_me_data_nose</string>
+		<string>lbl_find_me_data_kittyboy</string>
+		<string>lbl_find_me_data_president</string>
+		<string>lbl_find_me_data_uncool</string>
+		<string>lbl_find_me_data_blackmailed</string>
+		<string>lbl_find_me_data_flow</string>
+		<string>lbl_find_me_data_jail</string>
+		<string>lbl_find_me_data_litterbox</string>
+		<string>lbl_find_me_data_password</string>
+		<string>lbl_find_me_data_indicator</string>
+		<string>lbl_find_me_data_parked</string>
+		<string>lbl_find_me_data_carjacked</string>
+		<string>lbl_find_me_data_riot</string>
+		<string>lbl_find_me_data_hurt</string>
+		<string>lbl_find_me_data_stalked</string>
+		<string>lbl_find_me_data_bad</string>
+		<string>lbl_find_me_data_vibrations</string>
+		<string>lbl_find_me_data_funny</string>
+		<string>lbl_find_me_data_late</string>
+		<string>lbl_find_me_data_mystery</string>
+		<string>lbl_find_me_data_liar</string>
+		<string>lbl_find_me_data_pixelated</string>
+		<string>lbl_find_me_data_troll</string>
+		<string>lbl_find_me_data_forfun</string>
+		<string>lbl_find_me_data_games</string>
+		<string>lbl_find_me_data_moving</string>
+		<string>lbl_find_me_data_video_games</string>
+		<string>lbl_find_me_data_suspicious</string>
+		<string>lbl_find_me_data_burn</string>
+		<string>lbl_find_me_data_like</string>
+		<string>lbl_find_me_data_reason</string>
+		<string>lbl_find_me_data_another</string>
+		<string>lbl_find_me_data_king</string>
+		<string>lbl_find_me_data_phone</string>
+		<string>lbl_find_me_data_morning</string>
+		<string>lbl_find_me_data_gum</string>
+		<string>lbl_find_me_data_mojo</string>
+		<string>lbl_find_me_data_movie</string>
+		<string>lbl_find_me_data_humanity</string>
+		<string>lbl_find_me_data_bad_review</string>
+		<string>lbl_find_me_data_donuts</string>
+		<string>lbl_find_me_data_harlem</string>
+		<string>lbl_find_me_data_boat</string>
+		<string>lbl_find_me_data_jacket</string>
+		<string>lbl_find_me_data_messed</string>
+		<string>lbl_find_me_data_brush</string>
+		<string>lbl_find_me_data_mama</string>
+		<string>lbl_find_me_data_speaks</string>
+		<string>lbl_find_me_data_flag</string>
+		<string>lbl_find_me_data_mars</string>
+		<string>lbl_find_me_data_iron</string>
+	</array>
+</dict>
+</plist>

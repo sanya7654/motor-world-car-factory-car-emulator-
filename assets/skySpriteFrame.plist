@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>skyBG.png</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {284, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{284, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{284, 140}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {284, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>skyBoat1.png</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{220, 146}, {36, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{36, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 24}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{220, 146}, {36, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>skyBoat2.png</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{220, 198}, {46, 13}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{46, 13}</string>
+			<key>spriteSourceSize</key>
+			<string>{46, 13}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{220, 198}, {46, 13}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>skyBuilding1.png</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 146}, {126, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{126, 83}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 83}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 146}, {126, 83}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>skyBuilding2.png</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{132, 146}, {83, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{83, 83}</string>
+			<key>spriteSourceSize</key>
+			<string>{83, 83}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{132, 146}, {83, 83}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>skyCloud1.png</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{220, 174}, {32, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{32, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 19}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{220, 174}, {32, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>skyPlane.png</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{220, 216}, {57, 5}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{57, 5}</string>
+			<key>spriteSourceSize</key>
+			<string>{57, 5}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{220, 216}, {57, 5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{284, 232}</string>
+	</dict>
+</dict>
+</plist>

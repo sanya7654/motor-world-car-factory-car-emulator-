@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>stageKit1</key>
+	<dict>
+		<key>carToBuild</key>
+		<integer>1</integer>
+		<key>bonus</key>
+		<integer>0</integer>
+		<key>profitBonus</key>
+		<integer>0</integer>
+		<key>priceInCash</key>
+		<integer>0</integer>
+	</dict>
+	<key>stageKit2</key>
+	<dict>
+		<key>carToBuild</key>
+		<integer>10</integer>
+		<key>bonus</key>
+		<real>0.2</real>
+		<key>profitBonus</key>
+		<real>0.1</real>
+		<key>priceInCash</key>
+		<integer>15</integer>
+	</dict>
+	<key>stageKit3</key>
+	<dict>
+		<key>carToBuild</key>
+		<integer>25</integer>
+		<key>bonus</key>
+		<real>0.5</real>
+		<key>profitBonus</key>
+		<real>0.25</real>
+		<key>priceInCash</key>
+		<integer>30</integer>
+	</dict>
+	<key>stageKit4</key>
+	<dict>
+		<key>carToBuild</key>
+		<integer>100</integer>
+		<key>bonus</key>
+		<integer>1</integer>
+		<key>profitBonus</key>
+		<real>0.5</real>
+		<key>priceInCash</key>
+		<integer>50</integer>
+	</dict>
+</dict>
+</plist>

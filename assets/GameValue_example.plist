@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>secondsForFreeDonuts</key>
+	<integer>300</integer>
+	<key>chartBoostParameters</key>
+	<dict>
+		<key>active</key>
+		<true/>
+		<key>mustBeGroups</key>
+		<string>minLevel3</string>
+	</dict>
+	<key>tm</key>
+	<true/>
+	<key>acs</key>
+	<true/>
+	<key>flushEventPool</key>
+	<array>
+		<dict>
+			<key>eventID</key>
+			<string>catmobileCampaign</string>
+			<key>bellowVersion</key>
+			<integer>18</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

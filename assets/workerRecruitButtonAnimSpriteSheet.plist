@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>workerRecruitButtonAnim1</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{358, 0}, {114, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{114, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 108}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{358, 0}, {114, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim10</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{240, 116}, {116, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{116, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 106}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{240, 116}, {116, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim11</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{120, 116}, {116, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{116, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 106}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{120, 116}, {116, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim12</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 116}, {114, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{114, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 108}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 116}, {114, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim13</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{238, 0}, {114, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{114, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 108}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{238, 0}, {114, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim14</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {114, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{114, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 110}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {114, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim2</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{120, 0}, {114, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{114, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 108}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{120, 0}, {114, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim3</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 340}, {114, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{114, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 106}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 340}, {114, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim4</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 228}, {114, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{114, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 106}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 228}, {114, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim5</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{240, 226}, {116, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{116, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 106}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{240, 226}, {116, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim6</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{120, 448}, {116, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{116, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 106}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{120, 448}, {116, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim7</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{120, 338}, {116, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{116, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 106}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{120, 338}, {116, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim8</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{240, 338}, {114, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{114, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 106}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{240, 338}, {114, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>workerRecruitButtonAnim9</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{120, 226}, {116, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{116, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 106}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{120, 226}, {116, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{472, 556}</string>
+	</dict>
+</dict>
+</plist>

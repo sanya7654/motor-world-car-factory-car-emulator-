@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FuelPool</key>
+	<array>
+		<dict>
+			<key>Gfx</key>
+			<string>fuelBottle.png</string>
+			<key>line2String</key>
+			<string>&amp;WStarter &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_fuel_data_starter_pack</string>
+			<key>Quantity</key>
+			<integer>30</integer>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>19</integer>
+			<key>Name</key>
+			<string>Small Bottle &amp;W%i &amp;WFuel</string>
+			<key>localizedName</key>
+			<string>lbl_fuel_data_small_bottle</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>fuel2Bottle.png</string>
+			<key>line2String</key>
+			<string>&amp;WRacer &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_fuel_data_racer_pack</string>
+			<key>Quantity</key>
+			<integer>75</integer>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>39</integer>
+			<key>Name</key>
+			<string>Twin Bottle &amp;W%i &amp;Wfuel</string>
+			<key>localizedName</key>
+			<string>lbl_fuel_data_twin_bottle</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>fuel3bottle.png</string>
+			<key>line2String</key>
+			<string>&amp;WWinner &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_fuel_data_winner_pack</string>
+			<key>Quantity</key>
+			<integer>250</integer>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>99</integer>
+			<key>Name</key>
+			<string>Mega Bottle &amp;W%i &amp;WFuel</string>
+			<key>localizedName</key>
+			<string>lbl_fuel_data_mega_bottle</string>
+		</dict>
+	</array>
+</dict>
+</plist>

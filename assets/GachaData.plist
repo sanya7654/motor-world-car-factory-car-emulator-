@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gachasWorkers</key>
+	<array>
+		<dict>
+			<key>cardGFX</key>
+			<string>workerCardGrey.png</string>
+			<key>bannerGFX</key>
+			<string>bendyPack.png</string>
+			<key>title</key>
+			<string>BENDY PACK</string>
+			<key>description</key>
+			<string> </string>
+			<key>name</key>
+			<string>gacha1</string>
+			<key>delay</key>
+			<integer>0</integer>
+			<key>priceInCash</key>
+			<integer>45</integer>
+			<key>priceInCoins</key>
+			<integer>0</integer>
+			<key>components</key>
+			<array>
+				<dict>
+					<key>worker</key>
+					<string>Karl</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Charles</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Juan</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>zombieCEO</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>TP-Khamon</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>WoofVerine</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Katy Downtown</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Lexi Curry</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Austin Fisher</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Doge Bag</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Tahuk Tahuk</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Marcel</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Mystery Man</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Franken Delio</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Pimp Chimp</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Ghost CheeZ</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Bonus Maximus</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Charlie</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Morloph</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Tarantulas</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Major Kamikaze</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Billy Tornados</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Buddy Guard</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Sanic</string>
+					<key>weight</key>
+					<string>3</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Thorkes</string>
+					<key>weight</key>
+					<string>3</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Pelfi</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Puff Baby</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Red Face</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+			</array>
+			<key>carPool</key>
+			<array>
+				<integer>1</integer>
+				<integer>10</integer>
+				<integer>5</integer>
+				<integer>158</integer>
+				<integer>224</integer>
+				<integer>102</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>cardGFX</key>
+			<string>workerCardGreen.png</string>
+			<key>bannerGFX</key>
+			<string>legranPack.png</string>
+			<key>title</key>
+			<string>LEGRAN PACK</string>
+			<key>description</key>
+			<string> </string>
+			<key>name</key>
+			<string>gacha2</string>
+			<key>delay</key>
+			<integer>0</integer>
+			<key>priceInCash</key>
+			<integer>240</integer>
+			<key>priceInCoins</key>
+			<integer>0</integer>
+			<key>components</key>
+			<array>
+				<dict>
+					<key>worker</key>
+					<string>Biggy Z</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Uranium Kid</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>AphroBeat</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Rasta Raptor</string>
+					<key>weight</key>
+					<string>3</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>The Guardian</string>
+					<key>weight</key>
+					<string>3</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Pingu Jr.</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Al Terre</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Willy Deadeye</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Harlem Queen</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Disco Fidelio</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Treerion Firring</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Rick Cowardly</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Golden Surfer</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Donuts Witch</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Crowgrin</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>The Greench</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Chicken Zombie</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Rasta Trooper</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Zombie Scrooge</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Masta Chef</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Clumsy Cat</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Lord Bunny</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Frosty Swaggy</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Monica</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Baron VonRoland</string>
+					<key>weight</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Super Chicken</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Don Bernardo</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Lady Pineapple</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Pandora</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Tutti Fruit</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Sir Pingu</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>El Pulpo</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Mama Xmas</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Party God</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>K-9 Agent</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>McFlap</string>
+					<key>weight</key>
+					<string>3</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Motor Jane</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+			</array>
+			<key>carPool</key>
+			<array>
+				<integer>44</integer>
+				<integer>67</integer>
+				<integer>75</integer>
+				<integer>76</integer>
+				<integer>37</integer>
+				<integer>29</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>cardGFX</key>
+			<string>workerCardRed.png</string>
+			<key>bannerGFX</key>
+			<string>uraniumPack.png</string>
+			<key>title</key>
+			<string>URANIUM PACK</string>
+			<key>description</key>
+			<string> </string>
+			<key>name</key>
+			<string>gacha3</string>
+			<key>delay</key>
+			<integer>0</integer>
+			<key>priceInCash</key>
+			<integer>855</integer>
+			<key>priceInCoins</key>
+			<integer>0</integer>
+			<key>components</key>
+			<array>
+				<dict>
+					<key>worker</key>
+					<string>Snoop Dragon</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>La Mort</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Sergeant Tornados</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Redneck Bayou</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Bill Swaghog</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Pixelator</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Eva</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Rodolph</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Lolki</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Mr. Expresso</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Zomlouis XIV</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Hephaipster</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>DJ Lucky</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Count SWAGULA</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Captain Condor</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Uranium Toast</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Larry Jones</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>OctoLord</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Michelle</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Poker Face</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Lester</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Jean Le Guedin</string>
+					<key>weight</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Sir Bone</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Swagleton King</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Zoe</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Motor Jones</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Time Monster</string>
+					<key>weight</key>
+					<string>3</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Fidelator</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Dr. Goodbeat</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Master Doga</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Green Devil</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Twerk Machine</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>Santa Claus</string>
+					<key>weight</key>
+					<string>1</string>
+				</dict>
+				<dict>
+					<key>worker</key>
+					<string>SnoopDuck3000</string>
+					<key>weight</key>
+					<string>5</string>
+				</dict>
+			</array>
+			<key>carPool</key>
+			<array>
+				<integer>90</integer>
+				<integer>91</integer>
+				<integer>72</integer>
+				<integer>142</integer>
+				<integer>211</integer>
+				<integer>39</integer>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Donuts2Xactive</key>
+	<dict>
+		<key>mustBeGroups</key>
+		<string>minLevel3</string>
+		<key>name</key>
+		<string>Donuts</string>
+		<key>mustNotBeGroups</key>
+		<string>tutorialFinished:Donuts2Xseen80</string>
+		<key>isActive</key>
+		<true/>
+		<key>lengthInHours</key>
+		<integer>24</integer>
+		<key>version</key>
+		<integer>1</integer>
+		<key>startDate</key>
+		<string>2016-10-03 08:00</string>
+		<key>body</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>DONUTS DAY</string>
+				<key>alignment</key>
+				<string>center</string>
+				<key>line</key>
+				<integer>1</integer>
+				<key>fontSize</key>
+				<integer>14</integer>
+				<key>textColor</key>
+				<string>255,255,255,255</string>
+				<key>shadowColor</key>
+				<string>0,0,0,75</string>
+				<key>gradientStartColor</key>
+				<string>253,108,158,255</string>
+				<key>gradientEndColor</key>
+				<string>253,58,138,255</string>
+			</dict>
+			<dict>
+				<key>timerText</key>
+				<string>&amp;RTime &amp;RLeft &amp;R: &amp;W</string>
+				<key>line</key>
+				<integer>1</integer>
+				<key>alignment</key>
+				<string>center</string>
+				<key>fontSize</key>
+				<integer>12</integer>
+				<key>bgColor</key>
+				<string>255,200,30,255</string>
+				<key>shadowColor</key>
+				<string>129,72,0,100</string>
+			</dict>
+			<dict>
+				<key>dynamicZone</key>
+				<string>event:self:donutsDayOn</string>
+			</dict>
+		</array>
+		<key>donutsDayOn</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Only today, the refill rate of Donuts is &amp;Ytwo &amp;Ytimes faster !!!</string>
+				<key>line</key>
+				<integer>2</integer>
+				<key>alignment</key>
+				<string>center</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>BUILD THEM ALL</string>
+				<key>line</key>
+				<integer>1</integer>
+				<key>alignment</key>
+				<string>center</string>
+				<key>fontSize</key>
+				<integer>18</integer>
+				<key>shadowColor</key>
+				<string>0,158,223,0</string>
+				<key>bgColor</key>
+				<string>12,50,77,255</string>
+				<key>textColor</key>
+				<string>255,89,0</string>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>donutsWonderLand.png</string>
+				<key>scale</key>
+				<string>0.995</string>
+			</dict>
+			<dict>
+				<key>bgColor</key>
+				<string>0,46,89,255</string>
+				<key>height</key>
+				<integer>35</integer>
+				<key>buttonPool</key>
+				<array>
+					<dict>
+						<key>buttonScale</key>
+						<real>1.7</real>
+						<key>buttonImageName</key>
+						<string>orangeButton.png</string>
+						<key>buttonText</key>
+						<string>Close</string>
+						<key>buttonAction</key>
+						<string>eraseThisEvent</string>
+						<key>finishTutorial</key>
+						<string>Donuts2Xseen80</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

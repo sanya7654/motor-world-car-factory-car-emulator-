@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AT</key>
+	<string>Austria</string>
+	<key>BE</key>
+	<string>Belgium</string>
+	<key>BG</key>
+	<string>Bulgaria</string>
+	<key>HR</key>
+	<string>Croatia</string>
+	<key>CY</key>
+	<string>Cyprus</string>
+	<key>CZ</key>
+	<string>Czech Republic</string>
+	<key>DK</key>
+	<string>Denmark</string>
+	<key>EE</key>
+	<string>Estonia</string>
+	<key>FI</key>
+	<string>Finland</string>
+	<key>FR</key>
+	<string>France</string>
+	<key>DE</key>
+	<string>Germany</string>
+	<key>GR</key>
+	<string>Greece</string>
+	<key>HU</key>
+	<string>Hungary</string>
+	<key>IE</key>
+	<string>Ireland</string>
+	<key>IT</key>
+	<string>Italy</string>
+	<key>LV</key>
+	<string>Latvia</string>
+	<key>LT</key>
+	<string>Lithuania</string>
+	<key>LU</key>
+	<string>Luxembourg</string>
+	<key>MT</key>
+	<string>Malta</string>
+	<key>NL</key>
+	<string>Netherlands</string>
+	<key>PL</key>
+	<string>Poland</string>
+	<key>PT</key>
+	<string>Portugal</string>
+	<key>RO</key>
+	<string>Romania</string>
+	<key>SK</key>
+	<string>Slovakia</string>
+	<key>SI</key>
+	<string>Slovenia</string>
+	<key>ES</key>
+	<string>Spain</string>
+	<key>SE</key>
+	<string>Sweden</string>
+	<key>GB</key>
+	<string>United Kingdom</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFolderAndroid</key>
+	<string>androidProduction180</string>
+	<key>activeFolderAndroidSandbox</key>
+	<string>sandbox3</string>
+	<key>activeFolderIOS</key>
+	<string>production180</string>
+	<key>activeFolderIOSSandbox</key>
+	<string>sandbox3</string>
+	<key>generalDataFolderAndroid</key>
+	<string>generalData</string>
+	<key>generalDataFolderIOS</key>
+	<string>generalData</string>
+</dict>
+</plist>

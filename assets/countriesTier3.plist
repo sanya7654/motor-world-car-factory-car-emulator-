@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KG</key>
+	<string>Kyrgyzstan</string>
+	<key>VE</key>
+	<string>Venezuela</string>
+	<key>AW</key>
+	<string>Aruba</string>
+	<key>FO</key>
+	<string>Faroe Islands</string>
+	<key>MG</key>
+	<string>Madagascar</string>
+	<key>SM</key>
+	<string>San Marino</string>
+	<key>UZ</key>
+	<string>Uzbekistan</string>
+	<key>ET</key>
+	<string>Ethiopia</string>
+	<key>AS</key>
+	<string>American Samoa</string>
+	<key>GI</key>
+	<string>Gibraltar</string>
+	<key>FM</key>
+	<string>Micronesia</string>
+	<key>BY</key>
+	<string>Belarus</string>
+	<key>AM</key>
+	<string>Armenia</string>
+	<key>NE</key>
+	<string>Niger</string>
+	<key>MM</key>
+	<string>Myanmar (Burma)</string>
+	<key>PF</key>
+	<string>French Polynesia</string>
+	<key>SC</key>
+	<string>Seychelles</string>
+	<key>IR</key>
+	<string>Iran</string>
+	<key>MP</key>
+	<string>Northern Mariana Islands</string>
+	<key>TO</key>
+	<string>Tonga</string>
+	<key>AZ</key>
+	<string>Azerbaijan</string>
+	<key>MV</key>
+	<string>Maldives</string>
+	<key>BD</key>
+	<string>Bangladesh</string>
+	<key>SY</key>
+	<string>Syria</string>
+	<key>KH</key>
+	<string>Cambodia</string>
+	<key>HN</key>
+	<string>Honduras</string>
+	<key>MA</key>
+	<string>Morocco</string>
+	<key>KZ</key>
+	<string>Kazakhstan</string>
+	<key>IN</key>
+	<string>India</string>
+	<key>LC</key>
+	<string>Saint Lucia</string>
+	<key>ZM</key>
+	<string>Zambia</string>
+	<key>BO</key>
+	<string>Bolivia</string>
+	<key>GH</key>
+	<string>Ghana</string>
+	<key>LA</key>
+	<string>Laos</string>
+	<key>VN</key>
+	<string>Vietnam</string>
+	<key>MZ</key>
+	<string>Mozambique</string>
+	<key>SR</key>
+	<string>Suriname</string>
+	<key>JM</key>
+	<string>Jamaica</string>
+	<key>JE</key>
+	<string>Jersey</string>
+	<key>PY</key>
+	<string>Paraguay</string>
+	<key>UA</key>
+	<string>Ukraine</string>
+	<key>BA</key>
+	<string>Bosnia and Herzegovina</string>
+	<key>ME</key>
+	<string>Montenegro</string>
+	<key>NG</key>
+	<string>Nigeria</string>
+	<key>OM</key>
+	<string>Oman</string>
+	<key>TN</key>
+	<string>Tunisia</string>
+	<key>MN</key>
+	<string>Mongolia</string>
+	<key>FJ</key>
+	<string>Fiji</string>
+	<key>PK</key>
+	<string>Pakistan</string>
+	<key>GE</key>
+	<string>Georgia</string>
+	<key>MD</key>
+	<string>Moldova</string>
+	<key>DZ</key>
+	<string>Algeria</string>
+	<key>DO</key>
+	<string>Dominican Republic</string>
+	<key>IQ</key>
+	<string>Iraq</string>
+	<key>NI</key>
+	<string>Nicaragua</string>
+	<key>TZ</key>
+	<string>Tanzania</string>
+	<key>AD</key>
+	<string>Andorra</string>
+	<key>EG</key>
+	<string>Egypt</string>
+	<key>LR</key>
+	<string>Liberia</string>
+	<key>NA</key>
+	<string>Namibia</string>
+	<key>KE</key>
+	<string>Kenya</string>
+	<key>NP</key>
+	<string>Nepal</string>
+	<key>BW</key>
+	<string>Botswana</string>
+	<key>TC</key>
+	<string>Turks and Caicos Islands</string>
+</dict>
+</plist>

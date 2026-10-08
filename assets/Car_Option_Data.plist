@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OptionList</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>MP3 Player</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_mp3_player</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ABS</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_abs</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>AirBags</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_air_bags</string>
+			<key>PriceInCoins</key>
+			<integer>20</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rear Camera</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_rear_camera</string>
+			<key>PriceInCoins</key>
+			<integer>15</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Winter Pack</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_winter_pack</string>
+			<key>PriceInCoins</key>
+			<integer>15</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Led Interior</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_led_interior</string>
+			<key>PriceInCoins</key>
+			<integer>20</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Carbon Dash</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_carbon_dash</string>
+			<key>PriceInCoins</key>
+			<integer>20</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ceramic Brakes</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_ceramic_brakes</string>
+			<key>PriceInCoins</key>
+			<integer>30</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Carbon Seats</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_carbon_seats</string>
+			<key>PriceInCoins</key>
+			<integer>20</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Auto Parking</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_auto_parking</string>
+			<key>PriceInCoins</key>
+			<integer>20</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Voice Assist</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_voice_assist</string>
+			<key>PriceInCoins</key>
+			<integer>20</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Self Driving</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_self_driving</string>
+			<key>PriceInCoins</key>
+			<integer>20</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Full Gold Plating</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_full_gold_plating</string>
+			<key>PriceInCoins</key>
+			<integer>100</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Auto Brakes</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_autoBrakes</string>
+			<key>PriceInCoins</key>
+			<integer>20</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ejection Seat</string>
+			<key>localizedName</key>
+			<string>lbl_car_option_data_name_ejectionSeat</string>
+			<key>PriceInCoins</key>
+			<integer>20</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

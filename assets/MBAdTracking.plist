@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ccAppKey</key>
+	<string>Motor-World-Car-Factory-iOS</string>
+	<key>chartboostAppId</key>
+	<string>50abec4d09b6025a6e000000</string>
+	<key>chartboostAppSignature</key>
+	<string>d2685bc5c69877fd9487350f234ccef04fc01fd8</string>
+	<key>kochavaCampaignId</key>
+	<string>komotorworldcarfactoryiosngmoco28850abf4f3501dd</string>
+	<key>adevenAppId</key>
+	<string>v7t7dbny58s2</string>
+	<key>adcolonyProductId</key>
+	<string>580666714</string>
+	<key>adcolonyApiKey</key>
+	<string>c948d88001379942ce465af811d6283b</string>
+	<key>fiksuAppId</key>
+	<string>580666714</string>
+	<key>inmobiAppId</key>
+	<string>355d188c-8e18-4c37-ab25-c9aef6764f7b</string>
+	<key>useJumptap</key>
+	<true/>
+	<key>useLifestreet</key>
+	<true/>
+	<key>mdotmAdvertiserId</key>
+	<string>fnicolas@ngmoco.com</string>
+	<key>mdotmAppId</key>
+	<string>580666714</string>
+	<key>millennialAppId</key>
+	<string>21916</string>
+	<key>tapjoyAppId</key>
+	<string>2e857c71-99ba-4f90-a79a-affe1be83ca9</string>
+	<key>tapjoySecret</key>
+	<string>pqL7KipRiUgyeueYPZHN</string>
+	<key>w3iAppId</key>
+	<string>12363</string>
+<key>MobageAdTrackingVersion</key>
+<string>v2.5.2</string>
+</dict>
+</plist>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PL</key>
+	<string>Poland</string>
+	<key>SV</key>
+	<string>El Salvador</string>
+	<key>LY</key>
+	<string>Libya</string>
+	<key>PR</key>
+	<string>Puerto Rico</string>
+	<key>LV</key>
+	<string>Latvia</string>
+	<key>RU</key>
+	<string>Russia</string>
+	<key>MY</key>
+	<string>Malaysia</string>
+	<key>SA</key>
+	<string>Saudi Arabia</string>
+	<key>EC</key>
+	<string>Ecuador</string>
+	<key>AR</key>
+	<string>Argentina</string>
+	<key>LT</key>
+	<string>Lithuania</string>
+	<key>BZ</key>
+	<string>Belize</string>
+	<key>BS</key>
+	<string>Bahamas</string>
+	<key>RS</key>
+	<string>Serbia</string>
+	<key>MK</key>
+	<string>Macedonia</string>
+	<key>TH</key>
+	<string>Thailand</string>
+	<key>BG</key>
+	<string>Bulgaria</string>
+	<key>GT</key>
+	<string>Guatemala</string>
+	<key>RO</key>
+	<string>Romania</string>
+	<key>CZ</key>
+	<string>Czech Republic</string>
+	<key>CR</key>
+	<string>Costa Rica</string>
+	<key>PH</key>
+	<string>Philippines</string>
+	<key>MX</key>
+	<string>Mexico</string>
+	<key>BH</key>
+	<string>Bahrain</string>
+	<key>PA</key>
+	<string>Panama</string>
+	<key>BR</key>
+	<string>Brazil</string>
+	<key>IN</key>
+	<string>Indonesia</string>
+	<key>CI</key>
+	<string>Ivory Coast</string>
+	<key>NC</key>
+	<string>New Caledonia</string>
+	<key>CO</key>
+	<string>Colombia</string>
+	<key>CN</key>
+	<string>China</string>
+	<key>JO</key>
+	<string>Jordan</string>
+	<key>PE</key>
+	<string>Peru</string>
+	<key>PT</key>
+	<string>Portugal</string>
+	<key>UY</key>
+	<string>Uruguay</string>
+	<key>TR</key>
+	<string>Turkey</string>
+	<key>MU</key>
+	<string>Mauritius</string>
+	<key>GR</key>
+	<string>Greece</string>
+	<key>ZA</key>
+	<string>South Africa</string>
+	<key>BB</key>
+	<string>Barbados</string>
+	<key>GU</key>
+	<string>Guam</string>
+	<key>LK</key>
+	<string>Sri Lanka</string>
+	<key>CL</key>
+	<string>Chile</string>
+	<key>HR</key>
+	<string>Croatia</string>
+</dict>
+</plist>

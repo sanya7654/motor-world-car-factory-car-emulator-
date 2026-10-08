@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TipsPool</key>
+	<dict>
+		<key>localizedWorkerCrafting</key>
+		<array>
+			<string>lbl_tutorial_crafting_tips_1</string>
+			<string>lbl_tutorial_crafting_tips_2</string>
+			<string>lbl_tutorial_crafting_tips_3</string>
+			<string>lbl_tutorial_crafting_tips_4</string>
+			<string>lbl_tutorial_crafting_tips_5</string>
+		</array>
+		<key>breeding</key>
+		<array>
+			<string>Be &amp;Gcreative, try what goes through your mind !</string>
+			<string>The more cars you have &amp;Odiscovered, the more combinations you can make !</string>
+			<string>You&apos;ve got to breed them all to &amp;Obuild&apos;em&apos;all !!!</string>
+			<string>When you see cars in the street, try to imagine which &amp;Ocombination breeded them !</string>
+			<string>New combinations will come with &amp;Oupdates, stay tuned !!!</string>
+			<string>Breeding can be done instantly if you press the &amp;Gfinish &amp;Gnow button.</string>
+			<string>Tired of waiting ? You can see the result right now by pressing the &amp;Gfinish &amp;Gnow button.</string>
+			<string>Don&apos;t worry, you&apos;ll be &amp;Gnotified when the breeding is over !</string>
+		</array>
+		<key>localizedBreeding</key>
+		<array>
+			<string>lbl_tips_data_be_creative</string>
+			<string>lbl_tips_data_more_cars</string>
+			<string>lbl_tips_data_got_breed</string>
+			<string>lbl_tips_data_see_cars</string>
+			<string>lbl_tips_data_stay_tuned</string>
+			<string>lbl_tips_data_now_button</string>
+			<string>lbl_tips_data_tired_waiting</string>
+			<string>lbl_tips_data_breeding_over</string>
+		</array>
+		<key>dragRacing</key>
+		<array>
+			<string>Even if you don&apos;t have the best car, you can &amp;Gwin. It&apos;s a matter of skill.</string>
+			<string>&amp;GShift &amp;Gup when the needle is touching the &amp;Rred &amp;Rzone. But don&apos;t shift too early or you&apos;ll lose some precious time.</string>
+			<string>You can upgrade cars performances in the &amp;Ocar &amp;Odetails menu. Click on a car in the &amp;Ocollection &amp;Otree to display it.</string>
+			<string>You can only race cars you can build at your factory. &amp;GResearch new cars to race more &amp;Gpowerful car.</string>
+			<string>To prevent cheaters, the money is &amp;Gretrieved &amp;Gup &amp;Gfront. It is given back once the 2 players performed the challenge.</string>
+			<string>The timing precision of the drag race is &amp;G4 &amp;Gdigits after the zero.</string>
+			<string>Drag Racing for &amp;GCash unlocks new cars at the factory !</string>
+			<string>Winning a drag race increases your &amp;Oreputation.</string>
+			<string>Losing a drag race doesn&apos;t decrease your &amp;Oreputation.</string>
+			<string>You can &amp;Gchallenge several times a friend, as long as you have the &amp;Oresources for it.</string>
+			<string>Remind your friends on &amp;Wfacebook if they don&apos;t respond to your challenge.</string>
+			<string>The runway length is &amp;O400 &amp;Ometers.</string>
+		</array>
+		<key>localizedDragRacing</key>
+		<array>
+			<string>lbl_tips_data_best_car</string>
+			<string>lbl_tips_data_shift_up</string>
+			<string>lbl_tips_data_upgrade_cars</string>
+			<string>lbl_tips_data_powerful_cars</string>
+			<string>lbl_tips_data_up_front</string>
+			<string>lbl_tips_data_after_zero</string>
+			<string>lbl_tips_data_drag_racing</string>
+			<string>lbl_tips_data_increases_reputation</string>
+			<string>lbl_tips_data_decrease_reputation</string>
+			<string>lbl_tips_data_several_times</string>
+			<string>lbl_tips_data_remind_friends</string>
+			<string>lbl_tips_data_runway_length</string>
+		</array>
+		<key>donuts</key>
+		<array>
+			<string>You can accelerate employees &amp;Gleveling by &amp;Ofeeding them with donuts in the &amp;Oworker &amp;Odetails menu. Simply double tap on a worker. </string>
+			<string>Donuts are the &amp;Gsalary of your workers. They&apos;ll need one when their &amp;Pstamina runs out.</string>
+			<string>You&apos;ll get a &amp;Pfree &amp;Pdonut every 5 minutes, even if you&apos;re not playing.</string>
+			<string>Employees with &amp;Phigh &amp;Pstamina require much less donuts.</string>
+			<string>When a worker &amp;Glevels &amp;Gup, his &amp;Pstamina goes up and he requires less donuts. It is more &amp;Gprofitable to train workers as soon as possible.</string>
+			<string>When you feed a worker in the worker details, its &amp;Pstamina fully recovers.</string>
+			<string>Feeding a worker takes &amp;P3 &amp;Pdonuts and increases its XP by &amp;P3 &amp;Ppoints.</string>
+			<string>Each &amp;Pdonut you give to a worker increases his &amp;PXP by &amp;P1 &amp;Ppoint.</string>
+			<string>Some Quests offer you &amp;Pfree &amp;Pdonuts as rewards.</string>
+			<string>There&apos;re two &amp;Gspecial &amp;Gworkers that almost don&apos;t need &amp;Pdonuts to work. Can you guess who they are ?</string>
+			<string>&amp;GSpecial &amp;Gworkers have &amp;Phuge &amp;Pstamina, they can work for very long before requiring a &amp;Pdonut.</string>
+		</array>
+		<key>localizedDonuts</key>
+		<array>
+			<string>lbl_tips_data_accelerate_employees</string>
+			<string>lbl_tips_data_runs_out</string>
+			<string>lbl_tips_data_5minutes</string>
+			<string>lbl_tips_data_less_donuts</string>
+			<string>lbl_tips_data_levels_up</string>
+			<string>lbl_tips_data_fully_recovers</string>
+			<string>lbl_tips_data_feeding_worker</string>
+			<string>lbl_tips_data_each_donut</string>
+			<string>lbl_tips_data_some_quests</string>
+			<string>lbl_tips_data_special_workers</string>
+			<string>lbl_tips_data_huge_stamina</string>
+		</array>
+		<key>fuel</key>
+		<array>
+			<string>Race fuel for racing other players online !</string>
+			<string>You can loot big rewards during online racing !</string>
+			<string>You&apos;ll get a &amp;Ofree &amp;OFuel every 30 minutes, even if you&apos;re not playing.</string>
+			<string>Participate in the Grand Prix to loot serious rewards !!</string>
+			<string>Can you take the lead in a &amp;OGrand &amp;OPrix category this week ?</string>
+		</array>
+		<key>localizedFuel</key>
+		<array>
+			<string>lbl_tips_data_race_fuel</string>
+			<string>lbl_tips_data_big_rewards</string>
+			<string>lbl_tips_data_30minutes</string>
+			<string>lbl_tips_data_grand_prix</string>
+			<string>lbl_tips_data_this_week</string>
+		</array>
+		<key>chest</key>
+		<array>
+			<string>Treasure Chest holds &amp;PMystery &amp;PCards, &amp;GCash, &amp;KDonuts, &amp;OCrystals &amp;OUpgrades, &amp;BFuel and much more !!!</string>
+			<string>A chest could hold the &amp;GGreen &amp;GDevil &amp;GSpirit, a genius trapped for a thousand years that can make &amp;Wone &amp;Wwish comes &amp;Wtrue !</string>
+			<string>Content of chest is random, the higher they cost, the more &amp;Orare and &amp;Ovaluable are the items !</string>
+			<string>Some &amp;OOnline &amp;Oevents can spawn random treasure chest !</string>
+		</array>
+		<key>localizedChest</key>
+		<array>
+			<string>lbl_tips_data_treasure_chest</string>
+			<string>lbl_tips_data_chest_hold</string>
+			<string>lbl_tips_data_content_random</string>
+			<string>lbl_tips_data_can_spawn</string>
+		</array>
+		<key>coins</key>
+		<array>
+			<string>Everybody loves &amp;Ycoins, they&apos;re so shiny and made of gold ! </string>
+			<string>If a pirate (the one on a ship) wants to trade some &amp;Ycoins, you better refuse !</string>
+			<string>&amp;YCoins are the coolest thing on earth, you&apos;ll never had enough !!</string>
+			<string>Did you know your buildings provide you &amp;Ycoins on a regular basis ?</string>
+			<string>Some players have gathered more than 1 Billion &amp;Ycoins !!!</string>
+			<string>Some say that the little &amp;Gbiker is carrying a big treasure !!</string>
+		</array>
+		<key>localizedCoins</key>
+		<array>
+			<string>lbl_tips_data_loves_coins</string>
+			<string>lbl_tips_data_if_pirate</string>
+			<string>lbl_tips_data_coolest_thing</string>
+			<string>lbl_tips_data_regular_basis</string>
+			<string>lbl_tips_data_1billion_coins</string>
+			<string>lbl_tips_data_little_biker</string>
+		</array>
+		<key>cash</key>
+		<array>
+			<string>&amp;GCash have many purposes, you can &amp;Gspeed &amp;Gup all processes with it, buy &amp;Osuper &amp;Oemployees, get &amp;Omore &amp;Ocoins and many more !</string>
+			<string>The bigger cash pack you choose, the bigger is the &amp;Gdiscount</string>
+			<string>Tired of waiting for a &amp;Oresearch ? Use cash to &amp;Gspeed &amp;Git &amp;Gup !</string>
+			<string>&amp;OBreeding is too long ? Use cash to &amp;Gspeed &amp;Git &amp;Gup !</string>
+			<string>A car is too &amp;Odifficult to build ? Use cash to &amp;Gspeed &amp;Git &amp;Gup !</string>
+			<string>You don&apos;t have enough &amp;Pdonuts ? Buy more with some &amp;Gcash !</string>
+			<string>You&apos;re sure you&apos;re the &amp;Obest &amp;Oracer around ? Challenge your friend with &amp;Gcash &amp;Gbet !</string>
+			<string>You can buy &amp;PMystery &amp;PCards directly in &amp;Gcash</string>
+			<string>Did you know you could &amp;Gboost your employees by giving them &amp;Oitems ? It only costs &amp;G1 &amp;Gcash per &amp;Oitem !</string>
+		</array>
+		<key>localizedCash</key>
+		<array>
+			<string>lbl_tips_data_many_purposes</string>
+			<string>lbl_tips_data_cash_pack</string>
+			<string>lbl_tips_data_use_cash</string>
+			<string>lbl_tips_data_too_long</string>
+			<string>lbl_tips_data_too_difficult</string>
+			<string>lbl_tips_data_more_cash</string>
+			<string>lbl_tips_data_best_racer</string>
+			<string>lbl_tips_data_buy_cards</string>
+			<string>lbl_tips_data_per_item</string>
+		</array>
+		<key>mystery</key>
+		<array>
+			<string>Behind each mystery card stands a &amp;Gbonus, which one ? You won&apos;t know until you flip it !</string>
+			<string>There&apos;s &amp;Gfree &amp;Gcash behind some &amp;PMystery &amp;PCards</string>
+			<string>There&apos;s &amp;Gfree &amp;Gcash behind some &amp;PMystery &amp;PCards</string>
+			<string>Every 30 cards bought, you&apos;ll get an &amp;Gextra &amp;Gcard !</string>
+			<string>You can get &amp;GFree &amp;GCars that you could not normally build with a &amp;PMystery &amp;PCard.</string>
+			<string>Large amount of &amp;Gbonus hide behind certain &amp;PMystery &amp;PCards</string>
+			<string>You can earn free &amp;PMystery &amp;PCards while playing. But it&apos;s very very rare.</string>
+			<string>&amp;PMystery &amp;PCards provide &amp;Glarge &amp;Gamount of random &amp;Gresources.</string>
+			<string>&amp;PMystery &amp;PCards are like a box of &amp;Gchocolates, you never know what you&apos;ll get next !</string>
+		</array>
+		<key>localizedMystery</key>
+		<array>
+			<string>lbl_tips_data_card_stand</string>
+			<string>lbl_tips_data_free_cash</string>
+			<string>lbl_tips_data_free_cash</string>
+			<string>lbl_tips_data_extra_card</string>
+			<string>lbl_tips_data_free_cars</string>
+			<string>lbl_tips_data_large_amount</string>
+			<string>lbl_tips_data_earn_free</string>
+			<string>lbl_tips_data_random_resources</string>
+			<string>lbl_tips_data_get_next</string>
+		</array>
+		<key>worker</key>
+		<array>
+			<string>&amp;GWF stands for &amp;GWork &amp;GForce of the worker. The higher it is, the &amp;Gfaster cars are built.</string>
+			<string>You can access worker details by &amp;Gdouble &amp;Gtapping them</string>
+			<string>&amp;GStamina is the amount of work produced, before needing a donut.</string>
+			<string>Facebook friends are &amp;GFREE. But you&apos;re limited to 7 friends.</string>
+			<string>Each worker has very unique stats, check them in the &amp;Gworker &amp;Gdetails menu.</string>
+			<string>You can give &amp;Gitems to your workers to boost their stats.</string>
+			<string>Some items &amp;SH&amp; can be &amp;Otrickfull, have fun with them </string>
+			<string>You can improve your factory at the &amp;GLab</string>
+			<string>When a worker is &amp;PHungry, touch him to feed it.</string>
+			<string>You can &amp;GLevel &amp;GUp workers by feeding them in the &amp;GWorker &amp;GDetails menu</string>
+			<string>Each &amp;Gdonut you feed an employee with increases his &amp;Gexperience.</string>
+			<string>You can directly &amp;Gdrag a worker on a car.</string>
+			<string>You can increase the number of &amp;Gworkers per car in the &amp;GResearch &amp;GMenu at the &amp;GLab.</string>
+		</array>
+		<key>localizedWorker</key>
+		<array>
+			<string>lbl_tips_data_faster_cars</string>
+			<string>lbl_tips_data_worker_details</string>
+			<string>lbl_tips_data_work_produced</string>
+			<string>lbl_tips_data_mobage_friends</string>
+			<string>lbl_tips_data_details_menu</string>
+			<string>lbl_tips_data_boost_stats</string>
+			<string>lbl_tips_data_some_items</string>
+			<string>lbl_tips_data_improve_factory</string>
+			<string>lbl_tips_data_hungry_worker</string>
+			<string>lbl_tips_data_level_up</string>
+			<string>lbl_tips_data_you_feed</string>
+			<string>lbl_tips_data_drag_worker</string>
+			<string>lbl_tips_data_increase_number</string>
+		</array>
+		<key>allCar</key>
+		<array>
+			<string>&amp;GWP stands for &amp;GWork &amp;GPoints. It Indicates the amount of work required to produce a car.</string>
+			<string>&amp;GHP stands for &amp;GHorse &amp;GPower. It indicates the power of the car.</string>
+			<string>Each car you built will influence your &amp;Gimage. Your sales will be dependent on your image.</string>
+			<string>If a car takes too long to build, train your worker or get better ones. You can also use &amp;GSPEED &amp;GUP.</string>
+			<string>You can earn &amp;Gcash by completing lines in the collection tree.</string>
+			<string>Click on a &amp;Rlocked &amp;Rcar to discover how to unlock it.</string>
+			<string>The progress bar on &amp;Rlocked &amp;Rcars indicates the unlock percentage.</string>
+			<string>Some cars require &amp;GTechnologies to be researched first at the &amp;GLab.</string>
+			<string>You can &amp;Gupgrade cars in the &amp;GCar &amp;GDetails menu. It will influence race with friends.</string>
+			<string>You can &amp;Gtouch a car in the &amp;Gselling &amp;Glot to adjust the &amp;Oprice and &amp;Ooptions &amp;Olist</string>
+			<string>The more &amp;GWork &amp;GPoints are required to build a car, the more &amp;Gprofit you can make.</string>
+			<string>Watch the &amp;GNews &amp;GReport to discover what cars are &amp;Gtrendy.</string>
+			<string>You can complete &amp;GQuests to improve your company &amp;Gimage and &amp;Gdemands.</string>
+			<string>You can create &amp;Gunique car models by &amp;Gbreeding them at the &amp;GLab.</string>
+			<string>&amp;GHold your touch for one second over a car to display the &amp;GCar &amp;GDetails menu.</string>
+		</array>
+		<key>localizedAllCar</key>
+		<array>
+			<string>lbl_tips_data_work_points</string>
+			<string>lbl_tips_data_horse_power</string>
+			<string>lbl_tips_data_be_dependent</string>
+			<string>lbl_tips_data_speed_up</string>
+			<string>lbl_tips_data_collection_tree</string>
+			<string>lbl_tips_data_how_unlock</string>
+			<string>lbl_tips_data_unlock_percentage</string>
+			<string>lbl_tips_data_first_lab</string>
+			<string>lbl_tips_data_race_friends</string>
+			<string>lbl_tips_data_options_list</string>
+			<string>lbl_tips_data_more_profit</string>
+			<string>lbl_tips_data_cars_trendy</string>
+			<string>lbl_tips_data_improve_company</string>
+			<string>lbl_tips_data_breeding_lab</string>
+			<string>lbl_tips_data_car_details</string>
+		</array>
+		<key>building</key>
+		<array>
+			<string>Buildings produce &amp;Gfree &amp;Gcoins every hour. All you have to do is &amp;Gcollect them.</string>
+			<string>You can click on a building to display &amp;Ooptions.</string>
+			<string>You can &amp;Gspeed &amp;Gup the collecting process in the &amp;Obuilding &amp;Ooptions</string>
+			<string>You can sell all your cars at once using &amp;Gspeed &amp;Gup in the &amp;Obuilding &amp;Ooptions</string>
+			<string>Each building you construct greatly increases your &amp;Oreputation</string>
+			<string>You can recruit &amp;Gfriends to work in your buildings. It will &amp;Gboost your revenues !</string>
+			<string>Some buildings can unlock &amp;Gspecial &amp;Gcars ! </string>
+			<string>If a building takes too long to be built, you can use &amp;GSPEED &amp;GUP !</string>
+			<string>If you run out of &amp;Oselling &amp;Ospots, you can build a new &amp;Gcar &amp;Gdealer !</string>
+		</array>
+		<key>localizedBuilding</key>
+		<array>
+			<string>lbl_tips_data_buildings_produce</string>
+			<string>lbl_tips_data_display_options</string>
+			<string>lbl_tips_data_building_options</string>
+			<string>lbl_tips_data_can_sell</string>
+			<string>lbl_tips_data_each_building</string>
+			<string>lbl_tips_data_work_buildings</string>
+			<string>lbl_tips_data_can_unlock</string>
+			<string>lbl_tips_data_use_speed_up</string>
+			<string>lbl_tips_data_car_dealer</string>
+		</array>
+		<key>brand</key>
+		<array>
+			<string>&amp;GQuality determines how much profit you can make per car. It is a key to success to constantly increase your company&apos;s &amp;Gquality.</string>
+			<string>Depending on your &amp;Oimage value, certain cars will be easier or more difficult to sell. </string>
+		</array>
+		<key>localizedBrand</key>
+		<array>
+			<string>lbl_tips_data_how_profit</string>
+			<string>lbl_tips_data_image_value</string>
+		</array>
+		<key>labWarning</key>
+		<array>
+			<string>Don&apos;t let &amp;Omonkeys drive prototypes unattended.</string>
+			<string>Always wear proper &amp;Oequipment while in the lab.</string>
+			<string>If something &amp;Ostrange happens at midnight, blame the closest scientifist.</string>
+			<string>If the flux capacitor get incapacitated, always use &amp;Odynamite.</string>
+			<string>Don&apos;t try this &amp;Oexperiment at home. Unless you live in a bunker.</string>
+			<string>If you want to clone dinosaurs, I suggest you start with the &amp;Osympathetic ones.</string>
+			<string>Never cross the &amp;Ostream... unless really necessary.</string>
+			<string>&amp;OZombie &amp;OHazard may result from prolonged exposure to microwaves.</string>
+			<string>Don&apos;t take &amp;Oprototypes on the open road... unless it&apos;s Friday night and your date needs a ride.</string>
+			<string>&amp;OInjury might occur if you try to eat your phone. </string>
+			<string>We decline all responsibility in case of &amp;Ooverheating due to awesomeness.</string>
+			<string>Engineers are asked to &amp;Ostop &amp;Oshowing &amp;Ooff with their mutant cats. </string>
+			<string>It is not acceptable to breed &amp;Oanimals with cars. </string>
+			<string>Keep the meeting room clean after &amp;Omonkeys focus group.</string>
+			<string>Never hit &amp;O88mph with car project 88. Doing so might induce permanent damage to the time-space continuum.</string>
+			<string>If you&apos;re the last one to leave the lab, please lock the &amp;Ozombie cage.</string>
+			<string>Never trust people who pretend to clean &amp;Owindows with camera equipment.</string>
+			<string>A good engineer is a healthy engineer, don&apos;t play with &amp;Ozombies.</string>
+			<string>Although fun, it is strictly forbidden to tease &amp;Oscientific with food.</string>
+			<string>A bar of &amp;Ouranium was found in the cafeteria. It&apos;s waiting for you at the front desk.</string>
+			<string>Helping a &amp;Osuper &amp;Ovillain during weekend won&apos;t be accounted as &amp;Oover &amp;Otime. Nice try.</string>
+		</array>
+		<key>localizedLabWarning</key>
+		<array>
+			<string>lbl_tips_data_drive_prototypes</string>
+			<string>lbl_tips_data_wear_proper</string>
+			<string>lbl_tips_data_strange_happens</string>
+			<string>lbl_tips_data_flux_capacitor</string>
+			<string>lbl_tips_data_live_bunker</string>
+			<string>lbl_tips_data_clone_dinosaurs</string>
+			<string>lbl_tips_data_never_cross</string>
+			<string>lbl_tips_data_zombie_hasard</string>
+			<string>lbl_tips_data_needs_ride</string>
+			<string>lbl_tips_data_your_phone</string>
+			<string>lbl_tips_data_we_decline</string>
+			<string>lbl_tips_data_engineers_asked</string>
+			<string>lbl_tips_data_breed_animals</string>
+			<string>lbl_tips_data_room_clean</string>
+			<string>lbl_tips_data_never_hit</string>
+			<string>lbl_tips_data_last_one</string>
+			<string>lbl_tips_data_never_trust</string>
+			<string>lbl_tips_data_good_engineer</string>
+			<string>lbl_tips_data_although_fun</string>
+			<string>lbl_tips_data_uranium_bar</string>
+			<string>lbl_tips_data_nice_try</string>
+		</array>
+		<key>missions</key>
+		<array>
+			<string>Epic Quest let you fullfill &amp;Ospecial &amp;Ocustomers &amp;Oorders to gain some loot !</string>
+			<string>Your Battle Team can be upgraded by using &amp;Obetter &amp;Oworker.</string>
+			<string>&amp;YLive &amp;YEvent are a great way to unlock &amp;Onew &amp;Ocars and win super loot !</string>
+			<string>&amp;YLive &amp;YEvent are limited in time ! Complete them before they disappear.</string>
+			<string>&amp;YAdventure &amp;YMode let you battle wave of enemies for loot !</string>
+			<string>This menu is dynamic check out everyday what&apos;s in it for you !!</string>
+			<string>Some says unique workers can be found and &amp;Ycaptured inside dungeons.</string>
+			<string>Use &amp;PMystery &amp;PBall to capture workers in the adventure mode !</string>
+			<string>Play &amp;YLive &amp;YEvent for a chance to win MEGA REWARDS !!!</string>
+			<string>&amp;YLive &amp;YEvent are competitive multiplayer challenge ! Play them when you can !</string>
+			<string>&amp;YUnique &amp;YWorkers can be available for limited time, don&apos;t miss them !</string>
+		</array>
+		<key>localizedMissions</key>
+		<array>
+			<string>lbl_tips_data_epic_quest</string>
+			<string>lbl_tips_data_your_battle_team</string>
+			<string>lbl_tips_data_live_event_are_a_great</string>
+			<string>lbl_tips_data_live_event_are_limited_in_time</string>
+			<string>lbl_tips_data_adventure_mode</string>
+			<string>lbl_tips_data_this_menu</string>
+			<string>lbl_tips_data_some_days</string>
+			<string>lbl_tips_data_use_mystery_ball</string>
+			<string>lbl_tips_data_play_live_event</string>
+			<string>lbl_tips_data_live_event_are_competive</string>
+			<string>lbl_tips_data_unique_workers_can</string>
+		</array>
+	</dict>
+</dict>
+</plist>

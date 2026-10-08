@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tagLine</key>
+	<array>
+		<string>I wish I had a &amp;DGfriend like you</string>
+		<string>You&apos;re so awesome I want your cars !!</string>
+		<string>If awesomeness is an art, you&apos;re Da Vinci.</string>
+		<string>You must have done something right to get here !</string>
+		<string>This is &amp;DGcar &amp;DGheaven, where good cars go when they die.</string>
+		<string>I can&apos;t believe your awesomeness !!</string>
+		<string>You&apos;re so swag, it hurts.</string>
+		<string>Others have been there, but none with your class.</string>
+		<string>You&apos;re cool, level Fonzi.</string>
+		<string>If you were a planet you would be Awesomanus.</string>
+		<string>Seriously ? You&apos;re number one in my &amp;Pheart.</string>
+		<string>Your company is on its way to the &amp;DGTOP !</string>
+		<string>That&apos;s how you do it !</string>
+		<string>Can I call you the Swagmeister ??</string>
+		<string>Are you a car industry professional ???</string>
+		<string>If success was a melody, you would be my tune.</string>
+		<string>Did you try to pop those &amp;Rballoons ?</string>
+	</array>
+	<key>localizedTagLine</key>
+	<array>
+		<string>lbl_level_data_had_friend</string>
+		<string>lbl_level_data_want_cars</string>
+		<string>lbl_level_data_da_vinci</string>
+		<string>lbl_level_data_get_here</string>
+		<string>lbl_level_data_they_die</string>
+		<string>lbl_level_data_awesomess</string>
+		<string>lbl_level_data_it_hurts</string>
+		<string>lbl_level_data_your_class</string>
+		<string>lbl_level_data_level_fonzi</string>
+		<string>lbl_level_data_you_planet</string>
+		<string>lbl_level_data_my_heart</string>
+		<string>lbl_level_data_our_company</string>
+		<string>lbl_level_data_do_it</string>
+		<string>lbl_level_data_swagmeister</string>
+		<string>lbl_level_data_professional</string>
+		<string>lbl_level_data_my_tune</string>
+		<string>lbl_level_data_balloons</string>
+	</array>
+	<key>LevelStatus</key>
+	<array>
+		<string>On it&apos;s way up</string>
+		<string>Junior Tycoon</string>
+		<string>Tycoon</string>
+		<string>Slightly Rich</string>
+		<string>Pretty Rich</string>
+		<string>Rich</string>
+		<string>Super Tycoon</string>
+		<string>Very Rich</string>
+		<string>Rich like a G6</string>
+		<string>Touching the stars</string>
+		<string>Millionnaire</string>
+		<string>Billionnaire</string>
+		<string>TOP 500 Rich</string>
+		<string>TOP 100 Rich</string>
+		<string>TOP 10 Rich</string>
+		<string>MEGA RICH</string>
+	</array>
+	<key>localizedLevelStatus</key>
+	<array>
+		<string>lbl_level_data_way_up</string>
+		<string>lbl_level_data_junior_tycoon</string>
+		<string>lbl_level_data_tycoon</string>
+		<string>lbl_level_data_slightly_rich</string>
+		<string>lbl_level_data_pretty_rich</string>
+		<string>lbl_level_data_rich</string>
+		<string>lbl_level_data_super_tycoon</string>
+		<string>lbl_level_data_very_rich</string>
+		<string>lbl_level_data_rich_g6</string>
+		<string>lbl_level_data_touching</string>
+		<string>lbl_level_data_millionnaire</string>
+		<string>lbl_level_data_billionnaire</string>
+		<string>lbl_level_data_top500</string>
+		<string>lbl_level_data_top100</string>
+		<string>lbl_level_data_top10</string>
+		<string>lbl_level_data_mega_rich</string>
+	</array>
+	<key>XpValue</key>
+	<dict>
+		<key>XpData</key>
+		<array>
+			<string>0</string>
+			<string>100</string>
+			<string>365</string>
+			<string>668</string>
+			<string>1030</string>
+			<string>1475</string>
+			<string>2025</string>
+			<string>2703</string>
+			<string>3530</string>
+			<string>4530</string>
+			<string>5725</string>
+			<string>7138</string>
+			<string>8790</string>
+			<string>10705</string>
+			<string>12905</string>
+			<string>15413</string>
+			<string>23050</string>
+			<string>27220</string>
+			<string>31890</string>
+			<string>37090</string>
+			<string>42850</string>
+			<string>49200</string>
+			<string>56170</string>
+			<string>63790</string>
+			<string>72090</string>
+			<string>81100</string>
+			<string>90850</string>
+			<string>101370</string>
+			<string>112690</string>
+			<string>124840</string>
+			<string>170475</string>
+			<string>187788</string>
+			<string>206250</string>
+			<string>225900</string>
+			<string>246775</string>
+			<string>268913</string>
+			<string>292350</string>
+			<string>317125</string>
+			<string>343275</string>
+			<string>370838</string>
+			<string>399850</string>
+			<string>472375</string>
+			<string>507578</string>
+			<string>544499</string>
+			<string>583180</string>
+			<string>623663</string>
+			<string>665988</string>
+			<string>710196</string>
+			<string>756330</string>
+			<string>804430</string>
+			<string>854538</string>
+			<string>1150538</string>
+			<string>1219510</string>
+			<string>1291195</string>
+			<string>1365645</string>
+			<string>1442913</string>
+			<string>1523050</string>
+			<string>1606110</string>
+			<string>1692145</string>
+			<string>1781208</string>
+			<string>1873350</string>
+			<string>2387238</string>
+			<string>2506743</string>
+			<string>2630179</string>
+			<string>2757610</string>
+			<string>2889100</string>
+			<string>3024713</string>
+			<string>3164511</string>
+			<string>3308560</string>
+			<string>3456923</string>
+			<string>3609663</string>
+			<string>4428475</string>
+			<string>4612650</string>
+			<string>4814200</string>
+			<string>5015200</string>
+			<string>5221725</string>
+			<string>5433850</string>
+			<string>5651650</string>
+			<string>5875200</string>
+			<string>6104575</string>
+			<string>6339580</string>
+			<string>8513185</string>
+			<string>10517700</string>
+			<string>10913230</string>
+			<string>11733810</string>
+			<string>12159100</string>
+			<string>12594550</string>
+			<string>13040280</string>
+			<string>13496410</string>
+			<string>13963060</string>
+			<string>18440350</string>
+			<string>24629038</string>
+			<string>33720150</string>
+			<string>34835325</string>
+			<string>35974825</string>
+			<string>37138913</string>
+			<string>38327850</string>
+			<string>39541900</string>
+			<string>40781325</string>
+			<string>48046388</string>
+			<string>50337350</string>
+			<string>64274850</string>
+			<string>76532600</string>
+			<string>78835650</string>
+			<string>81184450</string>
+			<string>83579450</string>
+			<string>86021100</string>
+			<string>88509850</string>
+			<string>91046150</string>
+			<string>93630450</string>
+			<string>121263200</string>
+			<string>157862350</string>
+			<string>203324100</string>
+			<string>208885450</string>
+			<string>214547300</string>
+			<string>220310550</string>
+			<string>226176100</string>
+			<string>232144850</string>
+			<string>238217700</string>
+			<string>244395550</string>
+			<string>250679300</string>
+			<string>374879850</string>
+			<string>384356350</string>
+			<string>393991225</string>
+			<string>403785788</string>
+			<string>413741350</string>
+			<string>423859225</string>
+			<string>434140725</string>
+			<string>444587163</string>
+			<string>455199850</string>
+			<string>465980100</string>
+			<string>476929225</string>
+			<string>488048538</string>
+			<string>499339350</string>
+			<string>510802975</string>
+			<string>522440725</string>
+			<string>534253913</string>
+			<string>546243850</string>
+			<string>558411850</string>
+			<string>570759225</string>
+			<string>583287288</string>
+			<string>595997350</string>
+			<string>608890725</string>
+			<string>621968725</string>
+			<string>635232663</string>
+			<string>648683850</string>
+			<string>662323600</string>
+			<string>676153225</string>
+			<string>690174038</string>
+			<string>704387350</string>
+			<string>718794475</string>
+			<string>733396725</string>
+			<string>748195413</string>
+			<string>763191850</string>
+			<string>778387350</string>
+			<string>793783225</string>
+			<string>809380788</string>
+			<string>825181350</string>
+			<string>841186225</string>
+			<string>857396725</string>
+			<string>873814163</string>
+			<string>890439850</string>
+			<string>907275100</string>
+			<string>924321225</string>
+			<string>941579538</string>
+			<string>959051350</string>
+			<string>976737975</string>
+			<string>994640725</string>
+			<string>1012760913</string>
+			<string>1031099850</string>
+			<string>1049658850</string>
+			<string>1068439225</string>
+			<string>1087442288</string>
+			<string>1106669350</string>
+			<string>1126121725</string>
+			<string>1145800725</string>
+			<string>1165707663</string>
+			<string>1185843850</string>
+			<string>1206210600</string>
+			<string>1226809225</string>
+			<string>1268707350</string>
+		</array>
+	</dict>
+</dict>
+</plist>

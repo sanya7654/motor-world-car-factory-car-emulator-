@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CY</key>
+	<string>Cyprus</string>
+	<key>KR</key>
+	<string>South Korea</string>
+	<key>KN</key>
+	<string>Saint Kitts and Nevis</string>
+	<key>AL</key>
+	<string>Albania</string>
+	<key>DM</key>
+	<string>Dominica</string>
+	<key>MO</key>
+	<string>Macau</string>
+	<key>DK</key>
+	<string>Denmark</string>
+	<key>AT</key>
+	<string>Austria</string>
+	<key>FI</key>
+	<string>Finland</string>
+	<key>DE</key>
+	<string>Germany</string>
+	<key>SI</key>
+	<string>Slovenia</string>
+	<key>GL</key>
+	<string>Greenland</string>
+	<key>GP</key>
+	<string>Guadeloupe</string>
+	<key>ES</key>
+	<string>Spain</string>
+	<key>BM</key>
+	<string>Bermuda</string>
+	<key>GF</key>
+	<string>French Guiana</string>
+	<key>NL</key>
+	<string>Netherlands</string>
+	<key>IL</key>
+	<string>Israel</string>
+	<key>LI</key>
+	<string>Liechtenstein</string>
+	<key>NZ</key>
+	<string>New Zealand</string>
+	<key>KW</key>
+	<string>Kuwait</string>
+	<key>QA</key>
+	<string>Qatar</string>
+	<key>CA</key>
+	<string>Canada</string>
+	<key>HU</key>
+	<string>Hungary</string>
+	<key>IE</key>
+	<string>Ireland</string>
+	<key>LB</key>
+	<string>Lebanon</string>
+	<key>SE</key>
+	<string>Sweden</string>
+	<key>AU</key>
+	<string>Australia</string>
+	<key>GB</key>
+	<string>United Kingdom</string>
+	<key>AF</key>
+	<string>Afghanistan</string>
+	<key>KY</key>
+	<string>Cayman Islands</string>
+	<key>GA</key>
+	<string>Gabon</string>
+	<key>MQ</key>
+	<string>Martinique</string>
+	<key>SG</key>
+	<string>Singapore</string>
+	<key>FR</key>
+	<string>France</string>
+	<key>SN</key>
+	<string>Senegal</string>
+	<key>BE</key>
+	<string>Belgium</string>
+	<key>SK</key>
+	<string>Slovakia</string>
+	<key>GD</key>
+	<string>Grenada</string>
+	<key>GG</key>
+	<string>Guernsey</string>
+	<key>BN</key>
+	<string>Brunei</string>
+	<key>HK</key>
+	<string>Hong Kong</string>
+	<key>IS</key>
+	<string>Iceland</string>
+	<key>JP</key>
+	<string>Japan</string>
+	<key>EE</key>
+	<string>Estonia</string>
+	<key>LU</key>
+	<string>Luxembourg</string>
+	<key>IM</key>
+	<string>Isle of Man</string>
+	<key>MT</key>
+	<string>Malta</string>
+	<key>TW</key>
+	<string>Taiwan</string>
+	<key>IT</key>
+	<string>Italy</string>
+	<key>CH</key>
+	<string>Switzerland</string>
+	<key>NO</key>
+	<string>Norway</string>
+	<key>TT</key>
+	<string>Trinidad and Tobago</string>
+	<key>AE</key>
+	<string>United Arab Emirates</string>
+	<key>US</key>
+	<string>United States</string>
+</dict>
+</plist>

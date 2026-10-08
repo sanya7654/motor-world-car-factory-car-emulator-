@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CoinsPool</key>
+	<array>
+		<dict>
+			<key>Gfx</key>
+			<string>coinsPile.png</string>
+			<key>Quantity</key>
+			<integer>500</integer>
+			<key>line2String</key>
+			<string>&amp;WStarter &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_coins_data_starter_pack</string>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>5</integer>
+			<key>Name</key>
+			<string>Small Pile of &amp;W%i &amp;Wcoins</string>
+			<key>localizedName</key>
+			<string>lbl_coins_data_name_small_pile_of_coins</string>
+		</dict>
+		<dict>
+			<key>line2String</key>
+			<string>&amp;WEconomic &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_coins_data_economic_pack</string>
+			<key>Gfx</key>
+			<string>coinsChest.png</string>
+			<key>Quantity</key>
+			<integer>1200</integer>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>10</integer>
+			<key>Name</key>
+			<string>Chest of &amp;W%i &amp;Wcoins</string>
+			<key>localizedName</key>
+			<string>lbl_coins_data_name_chest_of_coins</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>coinsBank.png</string>
+			<key>Quantity</key>
+			<integer>7500</integer>
+			<key>line2String</key>
+			<string>&amp;WPlayers &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_coins_data_players_pack</string>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>50</integer>
+			<key>Name</key>
+			<string>Strongbox of &amp;W%i &amp;Wcoins</string>
+			<key>localizedName</key>
+			<string>lbl_coins_data_name_strongbox_of_coins</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>coinsMontain.png</string>
+			<key>Quantity</key>
+			<integer>25000</integer>
+			<key>line2String</key>
+			<string>&amp;WElite &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_coins_data_elite_pack</string>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>100</integer>
+			<key>Name</key>
+			<string>Mountain of &amp;W%i &amp;Wcoins</string>
+			<key>localizedName</key>
+			<string>lbl_coins_data_name_mountain_of_coins</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>coinsDeathStar.png</string>
+			<key>Quantity</key>
+			<integer>125000</integer>
+			<key>line2String</key>
+			<string>&amp;WPrestige &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_coins_data_prestige_pack</string>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>400</integer>
+			<key>Name</key>
+			<string>Gold Planet &amp;W%i &amp;Wcoins</string>
+			<key>localizedName</key>
+			<string>lbl_coins_data_name_gold_planet_coins</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>coinsGoldCard.png</string>
+			<key>Quantity</key>
+			<integer>1500000</integer>
+			<key>line2String</key>
+			<string>&amp;WBoss &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_coins_data_boss_pack</string>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>2000</integer>
+			<key>Name</key>
+			<string>Gold Card &amp;W%i &amp;Wcoins</string>
+			<key>localizedName</key>
+			<string>lbl_coins_data_name_gold_card_coins</string>
+		</dict>
+	</array>
+</dict>
+</plist>

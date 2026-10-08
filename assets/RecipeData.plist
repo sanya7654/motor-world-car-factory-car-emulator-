@@ -1,0 +1,1591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Recipes</key>
+	<array>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:CatMan,hasWorker:Wormax</string>
+			<key>Key</key>
+			<string>A1</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Buddy Guard</string>
+			<key>Duration</key>
+			<integer>5</integer>
+			<key>Workers</key>
+			<array>
+				<string>CatMan</string>
+				<string>Wormax</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Prisoner Bill,hasWorker:Austin Fisher</string>
+			<key>Key</key>
+			<string>A2</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Marcel</string>
+			<key>Duration</key>
+			<integer>1800</integer>
+			<key>Workers</key>
+			<array>
+				<string>Prisoner Bill</string>
+				<string>Austin Fisher</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:zombieCEO,hasWorker:Naughty Clown</string>
+			<key>Key</key>
+			<string>A3</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Ghost CheeZ</string>
+			<key>Duration</key>
+			<integer>1800</integer>
+			<key>Workers</key>
+			<array>
+				<string>zombieCEO</string>
+				<string>Naughty Clown</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Tonio GoodBeat,hasWorker:Sir Panty</string>
+			<key>Key</key>
+			<string>A4</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Pimp Chimp</string>
+			<key>Duration</key>
+			<integer>1800</integer>
+			<key>Workers</key>
+			<array>
+				<string>Tonio GoodBeat</string>
+				<string>Sir Panty</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:The Tiger,hasWorker:WoofVerine</string>
+			<key>Key</key>
+			<string>A5</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Morloph</string>
+			<key>Duration</key>
+			<integer>7200</integer>
+			<key>Workers</key>
+			<array>
+				<string>The Tiger</string>
+				<string>WoofVerine</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Michael Harbor,hasWorker:Mr. Coffee</string>
+			<key>Key</key>
+			<string>A6</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Tarantulas</string>
+			<key>Duration</key>
+			<integer>7200</integer>
+			<key>Workers</key>
+			<array>
+				<string>Michael Harbor</string>
+				<string>Mr. Coffee</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Juan,hasWorker:Coco Modor</string>
+			<key>Key</key>
+			<string>A7</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Tahuk Tahuk</string>
+			<key>Duration</key>
+			<integer>7200</integer>
+			<key>Workers</key>
+			<array>
+				<string>Juan</string>
+				<string>Coco Modor</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Green Man,hasWorker:Prisoner Jack</string>
+			<key>Key</key>
+			<string>A8</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Franken Delio</string>
+			<key>Duration</key>
+			<integer>21600</integer>
+			<key>Workers</key>
+			<array>
+				<string>Green Man</string>
+				<string>Prisoner Jack</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Sir Swagalry,hasWorker:DroidAG-47</string>
+			<key>Key</key>
+			<string>A9</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Pelfi</string>
+			<key>Workers</key>
+			<array>
+				<string>Sir Swagalry</string>
+				<string>DroidAG-47</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Charles,hasWorker:Mr. Ketchup</string>
+			<key>Key</key>
+			<string>A10</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Porkch</string>
+			<key>Duration</key>
+			<integer>21600</integer>
+			<key>Workers</key>
+			<array>
+				<string>Charles</string>
+				<string>Mr. Ketchup</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Johnny Coin,hasWorker:Slim Cheddar</string>
+			<key>Key</key>
+			<string>A11</string>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Charlie</string>
+			<key>Duration</key>
+			<integer>21600</integer>
+			<key>Workers</key>
+			<array>
+				<string>Johnny Coin</string>
+				<string>Slim Cheddar</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Johnny Banana,hasWorker:Doge Bag</string>
+			<key>Key</key>
+			<string>A12</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Bonus Maximus</string>
+			<key>Duration</key>
+			<integer>86400</integer>
+			<key>Workers</key>
+			<array>
+				<string>Johnny Banana</string>
+				<string>Doge Bag</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Wormed,hasWorker:TP-Khamon</string>
+			<key>Key</key>
+			<string>A13</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Thorkes</string>
+			<key>Duration</key>
+			<integer>86400</integer>
+			<key>Workers</key>
+			<array>
+				<string>Wormed</string>
+				<string>TP-Khamon</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Lexi Curry,hasWorker:The Snake</string>
+			<key>Key</key>
+			<string>A14</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Mystery Man</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Lexi Curry</string>
+				<string>The Snake</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Karl,hasWorker:Big Zombie</string>
+			<key>Key</key>
+			<string>A15</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Billy Tornados</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Big Zombie</string>
+				<string>Karl</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Fat CheeZ,hasWorker:Zombie Doc</string>
+			<key>Key</key>
+			<string>A16</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Princess Z</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Fat CheeZ</string>
+				<string>Zombie Doc</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Buddy Guard,hasWorker:Marcel,hasWorker:Sanic,hasWorker:Ghost CheeZ</string>
+			<key>Key</key>
+			<string>A17</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Swordus Masterus</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Buddy Guard</string>
+				<string>Marcel</string>
+				<string>Sanic</string>
+				<string>Ghost CheeZ</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Pimp Chimp,hasWorker:Morloph,Tarantulas</string>
+			<key>Key</key>
+			<string>A18</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Puff Baby</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Pimp Chimp</string>
+				<string>Morloph</string>
+				<string>Tarantulas</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Tahuk Tahuk,hasWorker:Franken Delio,hasWorker:Pelfi</string>
+			<key>Key</key>
+			<string>A19</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Spearus Seniorus</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Tahuk Tahuk</string>
+				<string>Franken Delio</string>
+				<string>Pelfi</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Bonus Maximus,hasWorker:Charlie,hasWorker:Porkch</string>
+			<key>Key</key>
+			<string>A20</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Meekob</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Porkch</string>
+				<string>Charlie</string>
+				<string>Bonus Maximus</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Thorkes,hasWorker:Major Kamikaze,hasWorker:Mystery Man</string>
+			<key>Key</key>
+			<string>A21</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Red Face</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Thorkes</string>
+				<string>Major Kamikaze</string>
+				<string>Mystery Man</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Billy Tornados,hasWorker:Princess Z,hasWorker:Droid AU-79</string>
+			<key>Key</key>
+			<string>A22</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>TheDock</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Billy Tornados</string>
+				<string>Katy Downtown</string>
+				<string>Droid AU-79</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Swordus Masterus,hasWorker:Puff Baby</string>
+			<key>Key</key>
+			<string>A23</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Lord Death</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Swordus Masterus</string>
+				<string>Puff Baby</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Spearus Seniorus,hasWorker:Meekob</string>
+			<key>Key</key>
+			<string>A24</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Golden Trooper</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Spearus Seniorus</string>
+				<string>Meekob</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Red Face,hasWorker:TheDock</string>
+			<key>Key</key>
+			<string>A25</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Baron VonRoland</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Red Face</string>
+				<string>TheDock</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Lord Death,hasWorker:Golden Trooper</string>
+			<key>Key</key>
+			<string>A26</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Subject 51</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Lord Death</string>
+				<string>Golden Trooper</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Baron VonRoland,hasWorker:Zork</string>
+			<key>Key</key>
+			<string>A27</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>The Dragon</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Baron VonRoland</string>
+				<string>Zork</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Lord Bunny,hasWorker:Clumsy Cat</string>
+			<key>Key</key>
+			<string>A28</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Pandora</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Lord Bunny</string>
+				<string>Clumsy Cat</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Rick Cowardly,hasWorker:Uranium Kid</string>
+			<key>Key</key>
+			<string>A29</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Zitwan</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Rick Cowardly</string>
+				<string>Uranium Kid</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Zombie Chicken,hasWorker:Treerion Firring</string>
+			<key>Key</key>
+			<string>A30</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Mini Nickage</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Treerion Firring</string>
+				<string>Zombie Chicken</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:The Greench,hasWorker:TheDoc</string>
+			<key>Key</key>
+			<string>A31</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Sir Buffalo</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>The Greench</string>
+				<string>TheDoc</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Al Terre,hasWorker:Rasta Raptor</string>
+			<key>Key</key>
+			<string>A32</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Don Bernardo</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Al Terre</string>
+				<string>Rasta Raptor</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Zombie Scrooge,hasWorker:Crowgrin</string>
+			<key>Key</key>
+			<string>A33</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Locos Tornados</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Zombie Scrooge</string>
+				<string>Crowgrin</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:AphroBeat,hasWorker:Willy Deadeye</string>
+			<key>Key</key>
+			<string>A34</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Ray</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Willy Deadeye</string>
+				<string>AphroBeat</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Sand Raider,hasWorker:Golden Surfer</string>
+			<key>Key</key>
+			<string>A35</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>El Kraken</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Sand Raider</string>
+				<string>Golden Surfer</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Disco Fidelio,hasWorker:Rasta Trooper</string>
+			<key>Key</key>
+			<string>A36</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Sir Pingu</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Disco Fidelio</string>
+				<string>Rasta Trooper</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Harlem Queen,hasWorker:The Guardian</string>
+			<key>Key</key>
+			<string>A37</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Tutti Fruit</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>The Guardian</string>
+				<string>Harlem Queen</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Frosty Swaggy,hasWorker:Biggy Z</string>
+			<key>Key</key>
+			<string>A38</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Lady Pineapple</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Frosty Swaggy</string>
+				<string>Biggy Z</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Monica,hasWorker:Scary Mike</string>
+			<key>Key</key>
+			<string>A39</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>El Pulpo</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Monica</string>
+				<string>Scary Mike</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Jean Le Fou,hasWorker:Malork</string>
+			<key>Key</key>
+			<string>A40</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Super Chicken</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Jean Le Fou</string>
+				<string>Malork</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Pingu Jr,hasWorker:Uranium Boy</string>
+			<key>Key</key>
+			<string>A41</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Polyclès</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Pingu Jr</string>
+				<string>Uranium Boy</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Subject 51,hasWorker:The Dragon,hasWorker:Pandora</string>
+			<key>Key</key>
+			<string>A42</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>McFlap</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>The Dragon</string>
+				<string>Subject 51</string>
+				<string>Pandora</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Zitwan,hasWorker:Mini Nickage,hasWorker:Sir Buffalo</string>
+			<key>Key</key>
+			<string>A43</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Motor Jane</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Zitwan</string>
+				<string>Mini Nickage</string>
+				<string>Sir Buffalo</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Don Bernardo,hasWorker:Locos Tornados,hasWorker:Ray</string>
+			<key>Key</key>
+			<string>A44</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Mama Xmas</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Don Bernardo</string>
+				<string>Locos Tornados</string>
+				<string>Ray</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:El Kraken,hasWorker:Sir Pingu,hasWorker:Tutti Fruit</string>
+			<key>Key</key>
+			<string>A45</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>K-9 Agent</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>El Kraken</string>
+				<string>Sir Pingu</string>
+				<string>Tutti Fruit</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Lady Pineapple,hasWorker:El Pulpo,hasWorker:Super Chicken</string>
+			<key>Key</key>
+			<string>A46</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Korkron</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Lady Pineapple</string>
+				<string>El Pulpo</string>
+				<string>Super Chicken</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Rosanna,hasWorker:Polyclès</string>
+			<key>Key</key>
+			<string>A47</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Party God</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Rosanna</string>
+				<string>Polyclès</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:McFlap,hasWorker:Motor Jane</string>
+			<key>Key</key>
+			<string>A48</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>ZeusDoc</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>McFlap</string>
+				<string>Motor Jane</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Mama Xmas,hasWorker:K-9 Agent</string>
+			<key>Key</key>
+			<string>A49</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Sergeant Tornados</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Mama Xmas</string>
+				<string>K-9 Agent</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Korkron,hasWorker:Party God</string>
+			<key>Key</key>
+			<string>A50</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Gorkoz</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Korkron</string>
+				<string>Party God</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:ZeusDoc,hasWorker:Sergeant Tornados,hasWorker:Gorkoz</string>
+			<key>Key</key>
+			<string>A51</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Green Devil</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>ZeusDoc</string>
+				<string>Sergeant Tornados</string>
+				<string>Gorkoz</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Eva,hasWorker:Pixelator,hasWorker:Omen</string>
+			<key>Key</key>
+			<string>A52</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Swagleton King</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Eva</string>
+				<string>Pixelator</string>
+				<string>Omen</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Uranium Toast,hasWorker:Snoop Dragon,hasWorker:Crosis</string>
+			<key>Key</key>
+			<string>A53</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Santa Claus</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Uranium Toast</string>
+				<string>Snoop Dragon</string>
+				<string>Crosis</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Blind Jack,hasWorker:Duke of Pimpwater,hasWorker:Zomlouis XIV</string>
+			<key>Key</key>
+			<string>A54</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Fidelator</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Blind Jack</string>
+				<string>Duke of Pimpwater</string>
+				<string>Zomlouis XIV</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Bill Swaghog,hasWorker:Shino Bibi,hasWorker:Aleks</string>
+			<key>Key</key>
+			<string>A55</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Jean Le Guedin</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Bill Swaghog</string>
+				<string>Shino Bibi</string>
+				<string>Aleks</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:MC Konga,hasWorker:Count SWAGULA,hasWorker:Captain Condor</string>
+			<key>Key</key>
+			<string>A57</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Master Doga</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>MC Konga</string>
+				<string>Count SWAGULA</string>
+				<string>Captain Condor</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Hephaipster,hasWorker:OctoLord</string>
+			<key>Key</key>
+			<string>A58</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Coolmaw</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Hephaipster</string>
+				<string>OctoLord</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Morkul,hasWorker:Duke of Pimp</string>
+			<key>Key</key>
+			<string>A59</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Lord of Pimp</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Morkul</string>
+				<string>Duke of Pimp</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Larry Jones,hasWorker:DJ Lucky</string>
+			<key>Key</key>
+			<string>A60</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Time Monster</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Larry Jones</string>
+				<string>DJ Lucky</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:La Mort,hasWorker:Vilork</string>
+			<key>Key</key>
+			<string>A61</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Sir Bone</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>La Mort</string>
+				<string>Vilork</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Redneck Bayou,hasWorker:Omnath</string>
+			<key>Key</key>
+			<string>A62</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Twerk Machine</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Redneck Bayou</string>
+				<string>Omnath</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Kazuul,hasWorker:Rorkar</string>
+			<key>Key</key>
+			<string>A63</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Dr. Goodbeat</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Kazuul</string>
+				<string>Rorkar</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Rakdos,hasWorker:Rodolph</string>
+			<key>Key</key>
+			<string>A64</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Motor Jones</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Rakdos</string>
+				<string>Rodolph</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Kordalinge,hasWorker:Michelle</string>
+			<key>Key</key>
+			<string>A65</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Zoe</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Kordalinge</string>
+				<string>Michelle</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Lolki,hasWorker:Mr. Expresso</string>
+			<key>Key</key>
+			<string>A66</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Lester</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Lolki</string>
+				<string>Mr. Expresso</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Rocko,hasWorker:Poker Face</string>
+			<key>Key</key>
+			<string>A67</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>SnoopDuck3000</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Rocko</string>
+				<string>Poker Face</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Green Devil,hasWorker:Swagleton King</string>
+			<key>Key</key>
+			<string>A68</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Space Doge</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Green Devil</string>
+				<string>Swagleton King</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Santa Claus,hasWorker:Fidelator</string>
+			<key>Key</key>
+			<string>A69</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Uranium Black</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Santa Claus</string>
+				<string>Fidelator</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Jean Le Guedin,hasWorker:Master Doga</string>
+			<key>Key</key>
+			<string>A70</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Loot McSwag</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Jean Le Guedin</string>
+				<string>Master Doga</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Coolmaw,hasWorker:Lord of Pimp</string>
+			<key>Key</key>
+			<string>A71</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Hell Gringo</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Coolmaw</string>
+				<string>Lord of Pimp</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Time Monster,hasWorker:Sir Bone</string>
+			<key>Key</key>
+			<string>A72</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>President Coffee</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Time Monster</string>
+				<string>Sir Bone</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Twerk Machine,hasWorker:Dr. Goodbeat</string>
+			<key>Key</key>
+			<string>A73</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Steel Punk</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Twerk Machine</string>
+				<string>Dr. Goodbeat</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Motor Jones,hasWorker:Zoe</string>
+			<key>Key</key>
+			<string>A74</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>America Marmot</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Motor Jones</string>
+				<string>Zoe</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Lester,hasWorker:SnoopDuck3000</string>
+			<key>Key</key>
+			<string>A75</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Uranium Red</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Lester</string>
+				<string>SnoopDuck3000</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Space Doge,hasWorker:Uranium Black,hasWorker:Loot McSwag,hasWorker:Hell Gringo</string>
+			<key>Key</key>
+			<string>A76</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Dead John Silver</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Space Doge</string>
+				<string>Uranium Black</string>
+				<string>Loot McSwag</string>
+				<string>Hell Gringo</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:President Coffee,hasWorker:Steel Punk,hasWorker:America Marmot,hasWorker:Uranium Red</string>
+			<key>Key</key>
+			<string>A77</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Super CatMan</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>President Coffee</string>
+				<string>Steel Punk</string>
+				<string>America Marmot</string>
+				<string>Uranium Red</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Neko Man,hasWorker:Lordos Conqueros,hasWorker:Ice Cube,hasWorker:SnowBro</string>
+			<key>Key</key>
+			<string>A78</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Lord Flashy</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Neko Man</string>
+				<string>Lordos Conqueros</string>
+				<string>Ice Cube</string>
+				<string>SnowBro</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Succu Bella,hasWorker:Insane Doge,hasWorker:Santa Bot,hasWorker:HK-9001</string>
+			<key>Key</key>
+			<string>A79</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Dr Vroom</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Succu Bella</string>
+				<string>Insane Doge</string>
+				<string>Santa Bot</string>
+				<string>HK-9001</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Dead John Silver,hasWorker:Super CatMan</string>
+			<key>Key</key>
+			<string>A80</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>V.I.P Monster</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Dead John Silver</string>
+				<string>Super CatMan</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:Lord Flashy,hasWorker:Dr Vroom</string>
+			<key>Key</key>
+			<string>A81</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Memnarch</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>Lord Flashy</string>
+				<string>Dr Vroom</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:V.I.P Monster,hasWorker:Memnarch</string>
+			<key>Key</key>
+			<string>A82</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>Golden Pixelator</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>V.I.P Monster</string>
+				<string>Memnarch</string>
+			</array>
+		</dict>
+		<dict>
+			<key>mustBeOfAnyGroup</key>
+			<string>hasWorker:ZombieLeon,hasWorker:Anubeast</string>
+			<key>Key</key>
+			<string>A83</string>
+			<key>PriceInCoins</key>
+			<integer>10</integer>
+			<key>PriceInCash</key>
+			<integer>0</integer>
+			<key>Result</key>
+			<string>E-Tron</string>
+			<key>Duration</key>
+			<integer>86</integer>
+			<key>Workers</key>
+			<array>
+				<string>ZombieLeon</string>
+				<string>Anubeast</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

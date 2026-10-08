@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adcolonyApiKey</key>
+	<string></string>
+	<key>adcolonyProductId</key>
+	<string></string>
+	<key>appodayHandle</key>
+	<string></string>
+	<key>appodaySecret</key>
+	<string></string>
+	<key>appredeemAppId</key>
+	<string></string>
+	<key>appredeemSecretA</key>
+	<string></string>
+	<key>appredeemSecretB</key>
+	<string></string>
+	<key>appredeemSecretC</key>
+	<string></string>
+	<key>appredeemSecretD</key>
+	<string></string>
+	<key>appsfireAppId</key>
+	<string></string>
+	<key>appsfirePartnerId</key>
+	<string></string>
+	<key>chartboostAppId</key>
+	<string></string>
+	<key>chartboostAppSignature</key>
+	<string></string>
+	<key>fiksuAppId</key>
+	<string></string>
+	<key>flurryAppId</key>
+	<string></string>
+	<key>inmobiAppId</key>
+	<string></string>
+	<key>kochavaCampaignId</key>
+	<string></string>
+	<key>leadboltTrackingId</key>
+	<string></string>
+	<key>leadboltSecretKey</key>
+	<string></string>
+	<key>mdotmAdvertiserId</key>
+	<string></string>
+	<key>mdotmAppId</key>
+	<string></string>
+	<key>millennialAppId</key>
+	<string></string>
+	<key>tapjoyAppId</key>
+	<string></string>
+	<key>tapjoySecret</key>
+	<string></string>
+	<key>useJumptap</key>
+	<true/>
+	<key>useLifestreet</key>
+	<true/>
+	<key>w3iAppId</key>
+	<string></string>
+	<key>MobageInstallTrackingVersion</key>
+	<string>v2.1</string>
+</dict>
+</plist>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allIntroStep</key>
+	<array>
+		<dict>
+			<key>sprite</key>
+			<array>
+				<dict>
+					<key>image</key>
+					<string>intro1.png</string>
+					<key>imagePosition</key>
+					<string>{10,0}</string>
+					<key>imageZ</key>
+					<integer>1</integer>
+					<key>imageGoTo</key>
+					<string>{-20,0}</string>
+					<key>imageDuration</key>
+					<integer>8</integer>
+				</dict>
+				<dict>
+					<key>image</key>
+					<string>intro_table.png</string>
+					<key>imagePosition</key>
+					<string>{20,-31.5}</string>
+					<key>imageZ</key>
+					<integer>1</integer>
+					<key>imageGoTo</key>
+					<string>{-40,-31.5}</string>
+					<key>imageDuration</key>
+					<real>7.8</real>
+				</dict>
+				<dict>
+					<key>image</key>
+					<string>intro_perso_seat.png</string>
+					<key>imagePosition</key>
+					<string>{40,-28}</string>
+					<key>imageZ</key>
+					<integer>1</integer>
+					<key>imageGoTo</key>
+					<string>{0,-28}</string>
+					<key>imageDuration</key>
+					<integer>7</integer>
+					<key>particle</key>
+					<string>heart</string>
+					<key>particleWait</key>
+					<integer>5</integer>
+					<key>bubbleText</key>
+					<string>I want to make the &amp;Obest &amp;Ocars !</string>
+					<key>localizedBubbleText</key>
+					<string>lbl_intro_data_best_cars</string>
+					<key>bubbleWait</key>
+					<integer>6</integer>
+				</dict>
+			</array>
+			<key>line1</key>
+			<string>As far as I can remember</string>
+			<key>localizedLine1</key>
+			<string>lbl_intro_data_can_remember</string>
+			<key>line2</key>
+			<string>I always wanted to build &amp;Gmy &amp;Gown &amp;Gcars...</string>
+			<key>localizedLine2</key>
+			<string>lbl_intro_data_own_cars</string>
+			<key>totalWait</key>
+			<integer>8</integer>
+		</dict>
+		<dict>
+			<key>line1</key>
+			<string>But seriously what are the chance</string>
+			<key>localizedLine1</key>
+			<string>lbl_intro_data_the_chance</string>
+			<key>line2</key>
+			<string>for someone to fullfill that dream ?...</string>
+			<key>localizedLine2</key>
+			<string>lbl_intro_data_fullfill</string>
+			<key>totalWait</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>line1</key>
+			<string>If you asked me yesterday</string>
+			<key>localizedLine1</key>
+			<string>lbl_intro_data_asked_me</string>
+			<key>line2</key>
+			<string>I would have said ZERO CHANCE...</string>
+			<key>localizedLine2</key>
+			<string>lbl_intro_data_zero_chance</string>
+			<key>totalWait</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>line1</key>
+			<string>But guess what ? </string>
+			<key>localizedLine1</key>
+			<string>lbl_intro_data_guess_what</string>
+			<key>line2</key>
+			<string>Today I won the &amp;Glotery and I...</string>
+			<key>localizedLine2</key>
+			<string>lbl_intro_data_won_lottery</string>
+			<key>totalWait</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>line1</key>
+			<string>bought myself a </string>
+			<key>localizedLine1</key>
+			<string>lbl_intro_data_bought_myself</string>
+			<key>line2</key>
+			<string>&amp;O&amp;2CAR &amp;O&amp;2FACTORY !!!</string>
+			<key>localizedLine2</key>
+			<string>lbl_intro_data_car_factory</string>
+			<key>totalWait</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

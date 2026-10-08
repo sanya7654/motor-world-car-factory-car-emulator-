@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>fuseDetailBoxAnimSpriteSheet1</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 188}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{80, 188}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 188}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {80, 188}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fuseDetailBoxAnimSpriteSheet2</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{86, 0}, {80, 188}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{80, 188}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 188}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 0}, {80, 188}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fuseDetailBoxAnimSpriteSheet3</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{170, 0}, {80, 188}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{80, 188}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 188}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{170, 0}, {80, 188}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fuseDetailBoxAnimSpriteSheet4</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{0, 194}, {80, 188}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{80, 188}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 188}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 194}, {80, 188}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fuseDetailBoxAnimSpriteSheet5</key>
+		<dict>
+			<key>spriteColorRect</key>
+			<string>{{86, 194}, {80, 188}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{80, 188}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 188}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{86, 194}, {80, 188}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{252, 384}</string>
+	</dict>
+</dict>
+</plist>

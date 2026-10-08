@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DonutsPool</key>
+	<array>
+		<dict>
+			<key>Gfx</key>
+			<string>donutsBox.png</string>
+			<key>line2String</key>
+			<string>&amp;WStarter &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_donuts_data_starter_pack</string>
+			<key>Quantity</key>
+			<integer>10</integer>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>5</integer>
+			<key>Name</key>
+			<string>Small box &amp;W%i &amp;Wdonuts</string>
+			<key>localizedName</key>
+			<string>lbl_donuts_data_small_box</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>donutsTower.png</string>
+			<key>line2String</key>
+			<string>&amp;WFamily &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_donuts_data_family_pack</string>
+			<key>Quantity</key>
+			<integer>25</integer>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>10</integer>
+			<key>Name</key>
+			<string>Tower of &amp;W%i &amp;Wdonuts</string>
+			<key>localizedName</key>
+			<string>lbl_donuts_data_tower_of_donuts</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>donutsCart.png</string>
+			<key>line2String</key>
+			<string>&amp;WDiscount &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_donuts_data_discount_pack</string>
+			<key>Quantity</key>
+			<integer>150</integer>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>49</integer>
+			<key>Name</key>
+			<string>Cart of &amp;W%i &amp;WDonuts</string>
+			<key>localizedName</key>
+			<string>lbl_donuts_data_cart_of_donuts</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>donutsCart2.png</string>
+			<key>line2String</key>
+			<string>&amp;WDouble &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_donuts_data_double_pack</string>
+			<key>Quantity</key>
+			<integer>610</integer>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>199</integer>
+			<key>Name</key>
+			<string>Combo of &amp;W%i &amp;WDonuts</string>
+			<key>localizedName</key>
+			<string>lbl_donuts_data_combo_of_donuts</string>
+		</dict>
+		<dict>
+			<key>Gfx</key>
+			<string>donutMontain.png</string>
+			<key>line2String</key>
+			<string>&amp;WMEGA &amp;YPack</string>
+			<key>localizedLine2String</key>
+			<string>lbl_donuts_data_mega_pack</string>
+			<key>Quantity</key>
+			<integer>3200</integer>
+			<key>PriceInCoins</key>
+			<integer>0</integer>
+			<key>PriceInCash</key>
+			<integer>999</integer>
+			<key>Name</key>
+			<string>Mountain of &amp;W%i &amp;WDonuts</string>
+			<key>localizedName</key>
+			<string>lbl_donuts_data_mountain_of_donuts</string>
+		</dict>
+	</array>
+</dict>
+</plist>

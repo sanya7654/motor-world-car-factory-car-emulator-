@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>new_offer_button1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{37,37}</string>
+			<key>spriteSourceSize</key>
+			<string>{37,37}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{37,37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>new_offer_button2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{37,37}</string>
+			<key>spriteSourceSize</key>
+			<string>{37,37}</string>
+			<key>textureRect</key>
+			<string>{{37,0},{37,37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>new_offer_button.png</string>
+		<key>size</key>
+		<string>{74,37}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:cb5fa6006608c00f7620c0f74fc092f1:8176a613350199d7803a39000442c6a9:dfb8f8f1bfe1250e1158aba2ef55badd$</string>
+		<key>textureFileName</key>
+		<string>new_offer_button.png</string>
+	</dict>
+</dict>
+</plist>

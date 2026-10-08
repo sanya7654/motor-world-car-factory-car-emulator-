@@ -1,0 +1,4154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllTutorialData</key>
+	<dict>
+		<key>collection</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Welcome to your &amp;Ocollection &amp;Otree. All the cars you&apos;ve built are displayed here !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_welcome_tree</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Gotta Build&apos;em all !!</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_gotta_build</string>
+				<key>tutorialMainTitle</key>
+				<string>Collection Tree</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_collection_tree</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>When you complete a &amp;DGline of the &amp;Ocollection &amp;Otree, you&apos;ll receive a very cool &amp;DGreward !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_when_complete</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Gotta Build&apos;em all !!</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_gotta_build</string>
+				<key>tutorialMainTitle</key>
+				<string>Collection Tree</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_collection_tree</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You can access the &amp;Odetails of any car by &amp;Ptapping on it. Let&apos;s try it now !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_can_access</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Gotta Build&apos;em all !!</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_gotta_build</string>
+				<key>tutorialMainTitle</key>
+				<string>Collection Tree</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_collection_tree</string>
+				<key>buttonSelector</key>
+				<string>tutorialIsFinished</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>facebook</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Do you want to &amp;Orace your cars? Get some &amp;Ofree &amp;Oworkers and &amp;Ofree &amp;Oitems ? You need some &amp;DGfriends then !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_want_race</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_facebook_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing With Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_friends</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Let&apos;s check if you&apos;ve got some &amp;OFacebook &amp;OFriends playing, you&apos;ll only need to &amp;DGlog &amp;DGonce !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_fb_friends</string>
+				<key>buttonString</key>
+				<string>Login</string>
+				<key>localizedButtonString</key>
+				<string>lbl_custom_offer_event_catmobile_button_login</string>
+				<key>buttonSelector</key>
+				<string>tutorialConnectToMobage</string>
+				<key>button2String</key>
+				<string>maybe later</string>
+				<key>localizedButton2String</key>
+				<string>lbl_tutorial_data_button_maybe_later</string>
+				<key>hideButton2</key>
+				<true/>
+				<key>button2Selector</key>
+				<string>tutorialCancelLoginFacebook</string>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_facebook_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing With Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_friends</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Great !!! You&apos;ve now access to plenty social &amp;Onew &amp;Ofeatures !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_new_features</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_facebook_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing With Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_friends</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Let&apos;s invite some of your friends to &amp;Ojoin &amp;Oyou now !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_lets_invite</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialInviteFriends</string>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_facebook_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing With Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_friends</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Great !! Now &amp;Ptap on a button to &amp;Odiscover its functionality.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_now_tap</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_facebook_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing With Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_friends</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>mobageConnect</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Do you want to &amp;Orace your cars? Get some &amp;Ofree &amp;Oworkers and &amp;Ofree &amp;Oitems ? You&apos;ll need some &amp;DGfriends then !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_free_items</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_mobage_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing Online !</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_online</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Let&apos;s check if you&apos;ve got some &amp;OFriends playing, you&apos;ll only need to &amp;DGlog &amp;DGonce !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_lets_check</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialConnectToMobage</string>
+				<key>hideButton2</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_facebook_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing With Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_friends</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>socialEnd</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Great !!! You&apos;ve now got access to plenty social &amp;Onew &amp;Ofeatures !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_plenty_social</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_mobage_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing With Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_friends</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Let&apos;s invite some of your friends to &amp;Ojoin &amp;Oyou now !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_lets_invite</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialInviteFriends</string>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_facebook_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing With Friend</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_friend</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Great !! Now &amp;Ptap on a button to &amp;Odiscover its functionality.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_now_tap</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Facebook Connect</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_facebook_connect</string>
+				<key>tutorialMainTitle</key>
+				<string>Playing With Friend</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_playing_friend</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>collectionEnd</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>And remember, if you want to be the greatest &amp;DGcar &amp;DGbuilder of all time...</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_car_builder</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Gotta Build&apos;em all !!</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_gotta_build</string>
+				<key>tutorialMainTitle</key>
+				<string>Collection Tree</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_collection_tree</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You&apos;ve......                   &amp;AZI&amp;&amp;2&amp;OGOTTA &amp;AZI&amp;&amp;2&amp;OBUILD&apos;EM &amp;AZI&amp;&amp;2&amp;OALL !!!!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_you_gotta</string>
+				<key>buttonString</key>
+				<string>I will !</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_i_will</string>
+				<key>tutorialSmallTitle</key>
+				<string>Gotta Build&apos;em all !!</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_gotta_build</string>
+				<key>tutorialMainTitle</key>
+				<string>Collection Tree</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_collection_tree</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonSelector</key>
+				<string>tutorialCollectionEnd</string>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>collection72</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Hey, I&apos;m Stan the creator of the game... I&apos;m &amp;OTOTALLY &amp;OIMPRESSED !!!!!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_im_stan</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;re part of the family now.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_family_now</string>
+				<key>tutorialMainTitle</key>
+				<string>VIP CLUB</string>
+				<key>characterIndex</key>
+				<integer>19</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<false/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Seriously ! You&apos;ve nailed it ! You&apos;ve built the &amp;O89 &amp;Ofirst cars !!!. </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_89cars</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;re part of the family now.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_family_now</string>
+				<key>tutorialMainTitle</key>
+				<string>VIP CLUB</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_vip_club</string>
+				<key>characterIndex</key>
+				<integer>19</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>As a token of my admiration, I give you this &amp;OSECRET &amp;OMAIL &amp;OADRESS to contact me</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_secret_mail</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;re part of the family now.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_family_now</string>
+				<key>tutorialMainTitle</key>
+				<string>VIP CLUB</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_vip_club</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>crazyDr33ftBoyzClub@ohbibi.com                                 </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_drift_boyz_mail</string>
+				<key>buttonString</key>
+				<string>I will !</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_i_will</string>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;re part of the family now.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_family_now</string>
+				<key>tutorialMainTitle</key>
+				<string>VIP CLUB</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_vip_club</string>
+				<key>tipString</key>
+				<string>Don&apos;t share this address with anyone, it&apos;s &amp;Oonly for the top players</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_dont_share</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>New updates will be coming, share some of your ideas or feedback on this address !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_new_updates</string>
+				<key>buttonString</key>
+				<string>Send</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_send</string>
+				<key>button2String</key>
+				<string>Maybe Later</string>
+				<key>localizedButton2String</key>
+				<string>lbl_tutorial_data_maybe_later</string>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;re part of the family now.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_family_now</string>
+				<key>tutorialMainTitle</key>
+				<string>VIP CLUB</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_vip_club</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonSelector</key>
+				<string>sendMailToCrazyClub</string>
+				<key>tipString</key>
+				<string>I&apos;ll read all the mails, and answer as much as I can ! New car are coming !!!!</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_read_mails</string>
+				<key>button2Selector</key>
+				<string>quitCrazyClub</string>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Now, while waiting for new content &amp;Oupgrade every car to &amp;OFinal &amp;OStage if you want to be a true &amp;Owinner !!!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_final_stage</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;re part of the family now.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_family_now</string>
+				<key>tutorialMainTitle</key>
+				<string>VIP CLUB</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_vip_club</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>carDetails</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>This is your &amp;Ocar &amp;Odetails page. Each car has its own very &amp;DGunique &amp;DGcharacteristics.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_car_details</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Characteristics and Upgrades</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_and_upgrades</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Details</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_details_title</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Once you&apos;ve built a model of this car, you can &amp;DGupgrade it to earn more &amp;DGprofit !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_build_model</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Characteristics and Upgrades</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_and_upgrades</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Details</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_details_title</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>carIsLocked</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>When a car is &amp;Rlocked, you&apos;ll be given information on how to &amp;DGunlock it !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_car_unlock_it</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_car</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Each car requires &amp;DGdifferent &amp;DGobjectives to be unlocked. You can &amp;Odiscover about it here.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_each_car</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_car</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You can &amp;Ptap on an objective to quickly access a way to &amp;DGachieve it.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_can_tap</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_car</string>
+				<key>tipString</key>
+				<string>Discuss with your &amp;Ofriends on how to unlock them all ! Some car are &amp;OVERY &amp;Orare and you&apos;ll need some help !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_mystery_discuss_your</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>firstCar</key>
+		<array>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>Welcome to &amp;OMotor &amp;OWorld ! Your goal is to become the &amp;DGbest &amp;DGcar &amp;DGmaker in the &amp;O&amp;AZI&amp;world !!!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_motor_world</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>Let&apos;s build your first car ! &amp;PTap the &amp;Obuilding &amp;Oslot or the &amp;DGgreen &amp;DGarrow to select a model.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_green_arrow</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitSelectCar</string>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>Great choice ! Now let&apos;s send your &amp;Oworkers on it ! &amp;PTap on the &amp;Obuilding &amp;Oslot.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_great_choice</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitWorkerToBeSent</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>Good job !! They&apos;ve built the &amp;DGengine, a car requires several &amp;Oparts to be &amp;DGcompleted. </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_good_job</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>Continue to &amp;Obuild it, until it &amp;Omoves further on the assembly line. &amp;PTap again to build the next part.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_continue_build</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitToMoveNextPosition</string>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>You&apos;re doing &amp;Ogreat so far !! As the car moves along the assembly line, it &amp;DGfrees &amp;DGspace  to build a new one.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_great_far</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>Let&apos;s finish this one first, it&apos;s time to assemble the &amp;DGframe.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_lets_finish</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitBuildFrame</string>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>Each part requires different amounts of &amp;1&amp;OWorking &amp;1&amp;OPoints to be completed.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_each_part</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>When a part takes too long to be built, you can use a &amp;DGspeed &amp;DGup.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_part_takes</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tipString</key>
+				<string>There&apos;re many ways to improve &amp;Obuilding &amp;Ospeed, you can &amp;Gupgrade workers, &amp;Ghire more staff, &amp;Gupgrade your factory and many more.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_building_speed</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>Now let&apos;s &amp;Ocomplete this car so we can sell it in your &amp;Odealership.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_your_dealership</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitPaint</string>
+				<key>tipString</key>
+				<string>The &amp;Odealership is on the &amp;Oright of your factory.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_your_factory</string>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>Before we can release a car to &amp;DGcustomers we need to perform a &amp;Oquality &amp;Ocheck.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_quality_check</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>text</key>
+				<string>The &amp;Oquality influences your &amp;Oimage and will directly impact the &amp;DGprofit you can make per car.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_per_car</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tipString</key>
+				<string>There&apos;re many ways to improve your quality, you can &amp;Gupgrade your workers, use &amp;Gitems on them, and many more.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_many_more</string>
+				<key>tutorialMainTitle</key>
+				<string>Building your first Car</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_first_car</string>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s get started !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_get_started</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+			</dict>
+		</array>
+		<key>carIsReadyToSale</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Hey, this is great news ! A &amp;Ocustomer wants to &amp;Obuy your first car !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_great_news</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;ve got swaggy customer</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_swaggy_customer</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Selling</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_selling</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>All you need to do, is &amp;Ptap on the car to &amp;Oseal the &amp;Odeal !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_seal_deal</string>
+				<key>viewAlert</key>
+				<integer>0</integer>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitCarToBeSold</string>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;ve got swaggy customer</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_swaggy_customer</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Selling</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_selling</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Congratulations !!! You can now access your &amp;Oaction &amp;Omenu, give it a try !!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_action_menu</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;ve got swaggy customer</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_swaggy_customer</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Selling</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_selling</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>carOptions</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>&amp;DGGreat you&apos;ve built a second car ! </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_second_car</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Commercial tactics</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_commercial_tactics</string>
+				<key>tutorialMainTitle</key>
+				<string>Selling Price and Options</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_selling_price</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>This time, let&apos;s try tuning the &amp;Oconfiguration and &amp;Oselling &amp;Oprice a little bit.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_little_bit</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>You&apos;ve got swaggy customer</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_swaggy_customer</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Selling</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_selling</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>&amp;PTap on the car in your parking lot to display &amp;OSelling &amp;OOptions.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_selling_options</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitToDisplayCarOptions</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>tipString</key>
+				<string>&amp;PTap the car you&apos;ve just built.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_just_built</string>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>carOptionsDetails</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Once a car is built, you can still add &amp;Ooptions to it. &amp;OCustomers love options !!!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_love_options</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialMainTitle</key>
+				<string>Selling Strategy</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_selling_strategy</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>Options list, demands and price.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_options_list</string>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>This is a good way to &amp;DGincrease a vehicle&apos;s demand, and &amp;DGreduce selling time.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_good_way</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tipString</key>
+				<string>New &amp;Ooptions can be researched at the &amp;Glab.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_new_options</string>
+				<key>tutorialSmallTitle</key>
+				<string>Options list, demands and price.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_options_list</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Selling Options</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_selling_options</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You can &amp;Oreduce or &amp;Oincrease the selling price, it will impact your &amp;DGprofit and the &amp;Odemand accordingly.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_reduce_increase</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tipString</key>
+				<string>Lowering the price &amp;Gboost demand, increasing the price &amp;Gboost profit, but &amp;Rincrease selling time. </string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_boost_demand</string>
+				<key>tutorialSmallTitle</key>
+				<string>Options list, demands and price.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_options_list</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Selling Options</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_selling_options</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Give it a shot, elaborate your own &amp;Ocommercial &amp;Ostrategy !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_give_shot</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialIsFinished</string>
+				<key>tutorialSmallTitle</key>
+				<string>Options list, demands and price.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_options_list</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Selling Options</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_selling_options</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>worldMap</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Please select your &amp;DGfactory location. Simply &amp;Ptap where you want it to be.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_factory_location</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Factory location</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_factory_location_title</string>
+				<key>tutorialMainTitle</key>
+				<string>World Map</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_world_map</string>
+				<key>buttonSelector</key>
+				<string>placeFactoryOnMap</string>
+				<key>tipString</key>
+				<string>You can select your &amp;Ohome location, or any places you like in the &amp;Gworld !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_home_location</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>From your factory will spread your &amp;Oreputation. </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_spread_reputation</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Factory location</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_factory_location_title</string>
+				<key>tutorialMainTitle</key>
+				<string>World Map</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_world_map</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>The zone in &amp;Oorange represents your &amp;Ofans around the world. If you&apos;re doing &amp;DGgreat it&apos;ll look like this...</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_fans_around</string>
+				<key>buttonString</key>
+				<string>Watch</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_watch</string>
+				<key>tutorialSmallTitle</key>
+				<string>Factory location</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_factory_location_title</string>
+				<key>buttonSelector</key>
+				<string>demonstrateHowReputationWork</string>
+				<key>tutorialMainTitle</key>
+				<string>World Map</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_world_map</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>As you cover more areas of the world, you will receive &amp;DGgifts from your fans !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_receive_gifts</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Factory location</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_factory_location_title</string>
+				<key>tutorialMainTitle</key>
+				<string>World Map</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_world_map</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Here&apos;s a &amp;DGgift from your first &amp;Ofan (me)!  Come back regularly to &amp;DGcollect your prizes !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_first_fan</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Factory location</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_factory_location_title</string>
+				<key>buttonSelector</key>
+				<string>tutorialIsFinished</string>
+				<key>tutorialMainTitle</key>
+				<string>World Map</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_world_map</string>
+				<key>tipString</key>
+				<string>You can &amp;Gincrease your reputation by doing &amp;Oquest, building &amp;Ocars and &amp;Oracing your friends. You get a big boost when you build new &amp;Obuildings.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_can_increase</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>lab</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Willkommen into your &amp;OLab mein friend ! It is a place for &amp;DGscience and &amp;Pmystery !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_your_lab</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Science, breeding and items</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_science_items</string>
+				<key>tutorialMainTitle</key>
+				<string>The Lab</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_the_lab</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Here you can &amp;Oresearch new technologies, &amp;Obreed new cars, and get some new &amp;Oitems for your workers.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_new_technologies</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Science, breeding and items</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_science_items</string>
+				<key>tutorialMainTitle</key>
+				<string>The Lab</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_the_lab</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>I&apos;ll let you &amp;Ptap any button to discover what&apos;s behind it. &amp;OGutt &amp;Oluck mein friend!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_tap_button</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Science, breeding and items</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_science_items</string>
+				<key>tutorialMainTitle</key>
+				<string>The Lab</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_the_lab</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>breeding</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Zehr Gut ! &amp;OBreeding is my speciality ! I can take 2 cars and make them have... &amp;Pquality &amp;Ptime...</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_zehr_gut</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Creating new cars</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Breeding</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_breeding</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>I put gutt music, make them feel comfortable... it&apos;ll produce a totally brand &amp;Onew &amp;Omodel of car !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_gutt_music</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Creating new cars</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Breeding</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_breeding</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Use your &amp;Oimagination, and make &amp;OCRAZY combinations ! Let&apos;s try it now,  &amp;Ptap to select the first car.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_crazy_combinations</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Creating new cars</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Breeding</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_breeding</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>buttonSelector</key>
+				<string>waitFirstCarSelection</string>
+				<key>tipString</key>
+				<string>You can only breed car you&apos;ve already &amp;Odiscovered. Think like a &amp;Gcar &amp;Gdesigner !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_only_breed</string>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Gut choice ! Now &amp;Pselect the second car</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_gut_choice</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Creating new cars</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Breeding</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_breeding</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>buttonSelector</key>
+				<string>waitSecondCarSelection</string>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Nice &amp;Ocombination ! I&apos;m sure it&apos;ll make a gut baby ! &amp;Ptap the &amp;Obreed &amp;Obutton to start the &amp;Pmagic !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_nice_combination</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Creating new cars</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Breeding</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_breeding</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>buttonSelector</key>
+				<string>waitBreedingButton</string>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Speed up the process by pressing the &amp;Ofinish &amp;Onow button ! </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_speed_up</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Creating new cars</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Car Breeding</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_breeding</string>
+				<key>buttonSelector</key>
+				<string>tutorialIsFinished</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<false/>
+			</dict>
+		</array>
+		<key>brand</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>It&apos;s time to choose a &amp;Oname and a &amp;Ologo for your company !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_name_logo</string>
+				<key>buttonString</key>
+				<string>Okay</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_okay</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitValidateName</string>
+				<key>tutorialSmallTitle</key>
+				<string>Customizing your own car company</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_own_car</string>
+				<key>tutorialMainTitle</key>
+				<string>Your Brand</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_your_brand</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Great &amp;Oname !! It reminds me of something...</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_great_name</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>Customizing your own car company</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_own_car</string>
+				<key>tutorialMainTitle</key>
+				<string>Your Brand</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_your_brand</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You can customize your &amp;Ologo design,  and get some information about your &amp;Oimage !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_logo_design</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Customizing your own car company</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_own_car</string>
+				<key>tutorialMainTitle</key>
+				<string>Your Brand</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_your_brand</string>
+				<key>tipString</key>
+				<string>&amp;OImage is very important to seduce &amp;Ocustomers. Pay close attention to your &amp;Odecision.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_seduce_customers</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>avatar</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>This is how you&apos;ll look when you work at a &amp;Ofriends&apos;s &amp;Ofactory !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_friends_factory</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>That&apos;s a nice look !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_nice_look</string>
+				<key>tutorialMainTitle</key>
+				<string>Customizing your avatar</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_your_avatar</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Let&apos;s show your creativity and make a &amp;Omemorable &amp;Olook !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_make_look</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>That&apos;s a nice look !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_nice_look</string>
+				<key>tutorialMainTitle</key>
+				<string>Customizing your avatar</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_your_avatar</string>
+				<key>tipString</key>
+				<string>New elements will be added through &amp;Oupdates ! </string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_new_elements</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>request</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>This is where you&apos;ll receive &amp;DGrequests from your &amp;Ofriends !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_requests_from</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Social communication</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_social_communication</string>
+				<key>tutorialMainTitle</key>
+				<string>Request from Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_request_friends</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You can receive &amp;Ofree &amp;Oitems, &amp;Ojob &amp;Ooffers to help your friends at their factory or in their shop.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_free_job</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Social communication</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_social_communication</string>
+				<key>tutorialMainTitle</key>
+				<string>Request from Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_request_friends</string>
+				<key>tipString</key>
+				<string>Come back regularly to check your &amp;Onew &amp;Orequests. To send a request, click on your &amp;Ofriends &amp;Odetails</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_come_back</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>And the best part is the &amp;Oracing &amp;Ochallenge !! You can race to earn &amp;DGcash !!!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_best_part</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Social communication</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_social_communication</string>
+				<key>tutorialMainTitle</key>
+				<string>Request from Friends</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_request_friends</string>
+				<key>tipString</key>
+				<string>Come back regularly to check your &amp;Onew request. To send a request, click on your &amp;Ofriends details</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_send_request</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>rankings</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>You can &amp;Ocompare &amp;Oreputation with your friends here. Who&apos;s going to be the best &amp;OCEO ?</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_compare_reputation</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tipString</key>
+				<string>Check the &amp;Ogame &amp;Ocenter to compete with all car makers around the world !!! Can you be &amp;Onumber &amp;O1 ?</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_game_center</string>
+				<key>tutorialSmallTitle</key>
+				<string>Compete with your Friends</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_your_friends</string>
+				<key>tutorialMainTitle</key>
+				<string>Who&apos;s got the best car company ?</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_company</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>friendList</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>You can check who&apos;s &amp;Oplaying and &amp;Oinvite new friends here. Click on a friend to &amp;DGinteract !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_friend_interract</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>The more the merier !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_more_merier</string>
+				<key>tutorialMainTitle</key>
+				<string>Friend&apos;s list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_friens_list</string>
+				<key>tipString</key>
+				<string>If you don&apos;t have &amp;Ofriends playing, maybe it&apos;s time to &amp;Oinvite some to the party !!</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_invite_some</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>research</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>*cough* I may be catching  a cold... I feel &amp;Ostrange...</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_catching_cold</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>characterIndex</key>
+				<integer>14</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Ach so, &amp;Oprogress and &amp;Onew &amp;Otechnology, are key to succeed on the car market.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_ach_so</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>characterIndex</key>
+				<integer>14</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You have &amp;O3 &amp;Odomains in which you can conduct researches : &amp;OCar , &amp;OFactory and &amp;OShop.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_have_domains</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>characterIndex</key>
+				<integer>14</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You can only conduct &amp;O1 &amp;Oresearch at a time, so choose carefully and balance between your needs !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_only_conduct</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>tipString</key>
+				<string>if a research takes too much time, you can &amp;Gspeed &amp;Git &amp;Gup using cash.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_using_cash</string>
+				<key>characterIndex</key>
+				<integer>14</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Let&apos;s start a &amp;Oresearch &amp;Oproject, choose what you want !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_lets_start</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>tipString</key>
+				<string>if a research takes too much time, you can &amp;Gspeed &amp;Git &amp;Gup using cash.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_using_cash</string>
+				<key>characterIndex</key>
+				<integer>14</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Grrrr.... &amp;BEAT &amp;BFLESSHHH... Ho you&apos;re there mein friend ?</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_mein_friend</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Boost your staff</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_your_staff</string>
+				<key>tutorialMainTitle</key>
+				<string>Worker Items</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_worker_items</string>
+				<key>characterIndex</key>
+				<integer>15</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>That cold got a little bit worse... I&apos;ll take &amp;Osoup, it will pass !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_cold_got</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>characterIndex</key>
+				<integer>15</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>&amp;B&amp;2*cough*      </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_cough</string>
+				<key>helmetJumpHeight</key>
+				<integer>10</integer>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>characterIndex</key>
+				<integer>15</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>So this is the place where you &amp;Obuy and &amp;Ostock items !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_buy_stock</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>characterIndex</key>
+				<integer>15</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>There are tons of items, some with... &amp;Osurprising effect.. you&apos;ll see... &amp;BGRRRRR !!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_tons_items</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>characterIndex</key>
+				<integer>15</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Maybe there&apos;s a &amp;Ocure for me in it.. who knows ??</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_who_knows</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Future technologies</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_future_technologies</string>
+				<key>tutorialMainTitle</key>
+				<string>Research</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_research</string>
+				<key>tipString</key>
+				<string>To use an &amp;Oitem, &amp;Pdouble &amp;Ptap on a worker, and select &amp;Oitem menu.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_double_tap</string>
+				<key>characterIndex</key>
+				<integer>15</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>quest</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>To get &amp;Ofamous, you&apos;ll need some &amp;Ovisibility, and what&apos;s better than a little &amp;Oglitter ?</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_get_famous</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Special Order for Special Customer</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_special_order</string>
+				<key>tutorialMainTitle</key>
+				<string>Quest</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_quest</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Here you can accept &amp;DGspecial &amp;DGorders, from &amp;Overy &amp;Oimportant &amp;Ocustomers.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_can_accept</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Special Order for Special Customer</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_special_order</string>
+				<key>tutorialMainTitle</key>
+				<string>Quest</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_quest</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Please them and they&apos;ll boost your &amp;Odemand and your &amp;Oreputation !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_your_reputation</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Special Order for Special Customer</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_special_order</string>
+				<key>tutorialMainTitle</key>
+				<string>Quest</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_quest</string>
+				<key>characterIndex</key>
+				<integer>6</integer>
+				<key>tipString</key>
+				<string>Quest Order are &amp;Ginstantly &amp;Gpaid when the order is &amp;Ocomplete.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_quest_order</string>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>mysteryCard</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Hello Stranger, I&apos;m the &amp;1&amp;PGypsy &amp;1&amp;PQueen, master of the &amp;OSeven &amp;OArt and daughter of the Moon.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_hello_stranger</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Cards never lie</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_never_lie</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Card</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_card</string>
+				<key>characterIndex</key>
+				<integer>17</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Do you think you&apos;re in &amp;Oluck today ? Why don&apos;t you try a &amp;PMystery &amp;PCard ?</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_luck_today</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Cards never lie</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_never_lie</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Card</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_card</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Huge &amp;Oamount of resources could hide behind some &amp;Pcards. It depends on your &amp;Oluck.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_your_luck</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Cards never lie</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_never_lie</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Card</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_card</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Come &amp;Bcloser now... There&apos;s a &amp;PStory only told behind closed doors..</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_closer_now</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Cards never lie</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_never_lie</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Card</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_card</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>.. some very &amp;Ounique and &amp;Oincredible cars you cannot buy hide behind these &amp;Pcards... &amp;Rdon&apos;t tell anyone!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_tell_anyone</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Cards never lie</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_never_lie</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Card</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_card</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>I&apos;ve offered you 2 &amp;PMystery &amp;PCards to try !! &amp;OTap on it to flip it !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_tap_on</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>endMysteryCardTutorial</string>
+				<key>tutorialSmallTitle</key>
+				<string>Cards never lie</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_never_lie</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Card</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_card</string>
+				<key>tipString</key>
+				<string>The &amp;Gsuper &amp;Gjackpot increases each time you buy a new &amp;Pmystery card</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_super_jackpot</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>chest</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Treasure chest hold big load of &amp;Ounique &amp;Oresources. </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_chest_hold</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Legendary Items</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_legendary_items</string>
+				<key>tutorialMainTitle</key>
+				<string>Treasure Chest</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_treasure_chest</string>
+				<key>tipString</key>
+				<string>Treasure Chest can be offered during &amp;Oonline &amp;Oevent.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_online_event</string>
+				<key>characterIndex</key>
+				<integer>17</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>&amp;PMystery &amp;PCards, &amp;DGCash, &amp;OCrystal &amp;OUpgrades and even.... &amp;PSECRET &amp;PEVENT !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_secret_event</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Cards never lie</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_never_lie</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Card</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_card</string>
+				<key>tipString</key>
+				<string>Chest content is random ! </string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_chest_content</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Some says the &amp;DGspirit of the &amp;DGGreen &amp;DGDevil is trapped into a chest... and he will grant you &amp;Oone &amp;Owish !!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_some_says</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Cards never lie</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_never_lie</string>
+				<key>tutorialMainTitle</key>
+				<string>Mystery Card</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_mystery_card</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>firstBuilding</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Now that you&apos;ve got yourself some &amp;Ofunds, you should increase your &amp;Oinstallation.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_should_increase</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>It&apos;s time to expand !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_time_expand</string>
+				<key>tutorialMainTitle</key>
+				<string>New Facilities</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_new_facilities</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Let&apos;s build a &amp;Onew &amp;Oshop that will attract more customers and brings &amp;Oregular &amp;Orevenue !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_regular_revenue</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>It&apos;s time to expand !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_time_expand</string>
+				<key>tipString</key>
+				<string>Building new facilities is super good for your &amp;Oreputation too !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_reputation_too</string>
+				<key>tutorialMainTitle</key>
+				<string>New Facilities</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_new_facilities</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Now, &amp;PTap on the &amp;DGbuild &amp;DGbutton to select a new construction.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_select_new</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitFirstShopToBeSelected</string>
+				<key>tutorialSmallTitle</key>
+				<string>It&apos;s time to expand !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_time_expand</string>
+				<key>tipString</key>
+				<string>Land buildings are super good for your &amp;Oreputation too !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_super_good</string>
+				<key>tutorialMainTitle</key>
+				<string>New Facilities</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_new_facilities</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Great ! Now you need some &amp;Oworkers to build this up.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_need_some</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>It&apos;s time to expand !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_time_expand</string>
+				<key>tipString</key>
+				<string>You can increase the maximum number of &amp;Oworkers that can construct a building in the &amp;lab.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_maximum_number</string>
+				<key>tutorialMainTitle</key>
+				<string>New Facilities</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_new_facilities</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>&amp;PTap again to call your crew !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_your_crew</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>It&apos;s time to expand !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_time_expand</string>
+				<key>tipString</key>
+				<string>Building new facilities is super good for your &amp;Oreputation too !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_reputation_too</string>
+				<key>tutorialMainTitle</key>
+				<string>New Facilities</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_new_facilities</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>selectTunerShop</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>&amp;PTap on the &amp;OTuner &amp;OShop to buy it !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_shop_buy</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Select Tuner Shop</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_tuner_shop</string>
+				<key>tutorialMainTitle</key>
+				<string>New Facilities</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_new_facilities</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>donutBar</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Welcome to the &amp;PDonuts &amp;PShop !! They&apos;re so &amp;AZI&amp;delicious !! </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_donuts_shop</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>Freshly baked and so tastyyyyy !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_freshly_baked</string>
+				<key>tutorialMainTitle</key>
+				<string>Donuts Shop</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_donuts_shop_title</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You can buy more &amp;Pdonuts for your workers, and &amp;DGincrease your &amp;Pdonuts &amp;Pbar size to get more daily free donuts. </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_more_daily</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tipString</key>
+				<string>Increasing your donut bar offers you a &amp;Gfree &amp;Gfull &amp;Grefill of donuts !!</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_free_full</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Let&apos;s &amp;Otry it !!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_try_it</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Select Tuner Shop</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_tuner_shop</string>
+				<key>tutorialMainTitle</key>
+				<string>New Facilities</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_new_facilities</string>
+				<key>tipString</key>
+				<string>tap on a card to buy it !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_buy_it</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>fuelBar</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Welcome to the &amp;PFuel &amp;PShop !! You&apos;ll need some to &amp;Orace your cars &amp;Oonline !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_fuel_shop</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>Racing fuel for Champion !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_racing_fuel</string>
+				<key>tutorialMainTitle</key>
+				<string>Fuel Shop</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_fuel_shop_title</string>
+				<key>characterIndex</key>
+				<integer>18</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You can buy more &amp;Ofuel to race, you&apos;ll get free fuel every &amp;O30 &amp;Ominutes.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_30minutes</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tipString</key>
+				<string>You can loot very &amp;Ocool &amp;Orewards during online racing !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_can_loot</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Don&apos;t forget to join this week &amp;OGrand &amp;OPrix to win &amp;Pdonuts, &amp;PMystery &amp;PCards and much more !!!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_dont_forget</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tipString</key>
+				<string>&amp;WGrand &amp;WPrix last a week and have a category for every level of players !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_grand_prix</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>grandPrix</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Welcome to the &amp;OWorld &amp;OGrand &amp;OPrix!! Challenge other players to win some loots !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_some_loots</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tutorialSmallTitle</key>
+				<string>Let&apos;s win some loots and drive your cars</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_lets_win</string>
+				<key>tutorialMainTitle</key>
+				<string>World Grand Prix !!</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_world_prix</string>
+				<key>characterIndex</key>
+				<integer>18</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Pick a class and race for the leaderboard. Can you join the &amp;OLegion &amp;Oof &amp;OAwesomeness this week ? </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_this_week</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>tipString</key>
+				<string>You can loot very &amp;Ocool &amp;Orewards during online racing !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_can_loot</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>You&apos;ll unlock &amp;Ospecial &amp;Ocars based on your number of online victories ! Give it a shot !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_give_it</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialGrandPrixIsFinished</string>
+				<key>tipString</key>
+				<string>&amp;WGrand &amp;WPrix last a week and have a category for every level of players !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_grand_prix</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>restRoom</key>
+		<array>
+			<dict>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_restroom_title</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_restroom_1</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>showRestRoomButton</string>
+				<key>characterIndex</key>
+				<integer>3</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_restroom_2</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>characterIndex</key>
+				<integer>3</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonSelector</key>
+				<string>waitGoToWork</string>
+			</dict>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_restroom_3</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>characterIndex</key>
+				<integer>3</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonSelector</key>
+				<string>finishRestRoomTutorial</string>
+			</dict>
+		</array>
+		<key>buildingIsComplete</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Congratulations ! Your first building is complete !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_first_complete</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>First stone of your empire</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_first_stone</string>
+				<key>tutorialMainTitle</key>
+				<string>Building is complete</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_building_complete</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>workerList</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>A good &amp;OCEO always knows his worker&apos;s &amp;DGstrengths and &amp;Rflaws. </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_ceo_knows</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Keeping in touch with your staff</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_touch_with</string>
+				<key>tutorialMainTitle</key>
+				<string>Worker List</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_worker_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>To do so you can access every &amp;Oworkers &amp;Odetails here, now &amp;Ptap one !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_every_workers</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>workerDetails</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Each worker is unique and is defined by &amp;O4 main &amp;Oattributes.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_each_worker</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Worker&apos;s stats, Training and Items.</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_worker_stats</string>
+				<key>tutorialMainTitle</key>
+				<string>Worker Details</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_worker_details</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>&amp;OQuality : Defines the quality of the work, it will directly impact your &amp;DGprofit per car.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_your_profit</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>&amp;OWork &amp;OPoint &amp;B(WP) : The stronger it is, the &amp;DGfaster the car is built.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_work_point</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>&amp;OStamina : How much &amp;Bwork &amp;Bpoint a worker can produce before it requires a &amp;Pdonut.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_how_much</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>&amp;OSpeed : How &amp;DGfast a worker get to his task.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_his_task</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Your workers can &amp;Oprogress and level up if you &amp;Pfeed them.  Let&apos;s try !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_your_workers</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Now, &amp;PTap on the &amp;DGfeed &amp;DGbutton until your worker &amp;Olevels &amp;Oup!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_levels_up</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonSelector</key>
+				<string>tutorialFeedButton</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Good work &amp;OMr. &amp;OCEO !!! You managed it like a &amp;OBOSS !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_good_work</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Now let&apos;s use an item to boost the &amp;Oworker &amp;OPerformance. &amp;PTap the &amp;Oitem button.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_item_button</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonSelector</key>
+				<string>tutorialItemButton</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>I gave you 2 free &amp;Oitems to try, &amp;Ptap on it !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_2items</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tipString</key>
+				<string>You&apos;ll receive a new &amp;Ofree &amp;Ogift every day !! You can win &amp;OSkills+ items through mystery cards.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_win_skills</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>donuts</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Oh look ! A worker is &amp;Pexhausted ! You must do something !!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_oh_look</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Delicious donuts </string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_delicious_donuts</string>
+				<key>tutorialMainTitle</key>
+				<string>Feeding Worker</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_feeding_worker</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>&amp;PTap on him to feed him a delicious &amp;Pdonut !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_feed_him</string>
+				<key>viewAlert</key>
+				<integer>2</integer>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitFeedWorker</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Great ! He can now go back to &amp;Owork ! You&apos;ll receive a &amp;Pfree &amp;Pdonut every &amp;O5 &amp;Ominutes.  </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_5minutes</string>
+				<key>viewAlert</key>
+				<integer>2</integer>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>How to unlock cars ?</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_unlock_cars</string>
+				<key>tutorialMainTitle</key>
+				<string>Employee list</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_employee_list</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>tipString</key>
+				<string>You can buy &amp;Pextra &amp;Pdonuts in the shop. </string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_buy_extra</string>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>rate5Stars</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>You&apos;re doing &amp;Oreally &amp;Ogood ! You&apos;ve got a brilliant future in front you !!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_really_good</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Your employees love you !!</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_love_you</string>
+				<key>tutorialMainTitle</key>
+				<string>Having fun ?</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_having_fun</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>If you like the game, please &amp;Orate Motor World !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_rate_motor_world</string>
+				<key>buttonString</key>
+				<string>Rate now</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_rate_now</string>
+				<key>buttonSelector</key>
+				<string>tutorialWaitRateNow</string>
+				<key>button2String</key>
+				<string>Maybe later</string>
+				<key>localizedButton2String</key>
+				<string>lbl_tutorial_data_maybe_latter</string>
+				<key>button2Selector</key>
+				<string>tutorialRateNowIsFinished</string>
+				<key>tipString</key>
+				<string>If you want to &amp;Oreport an issue, you can use the &amp;Oreport &amp;Obutton in the option screen it&apos;s the &amp;Gquickest way to reach us.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_reach_us</string>
+				<key>tutorialSmallTitle</key>
+				<string>cause we do love you...</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_cause_we</string>
+				<key>tutorialMainTitle</key>
+				<string>Do you like this game ?</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_you_like</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>followTwitter</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>You&apos;ve reached a great Level ! We&apos;re almost like family !! </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_great_level</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>that&apos;s who you are !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_you_are</string>
+				<key>tutorialMainTitle</key>
+				<string>Very Important Player</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_important_player</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>If you want to learn &amp;DGsecrets and &amp;DGtips about the game, follow us on twitter !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_on_twitter</string>
+				<key>buttonString</key>
+				<string>Follow us</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_follow_us</string>
+				<key>buttonSelector</key>
+				<string>tutorialFollowUs</string>
+				<key>button2String</key>
+				<string>Maybe later</string>
+				<key>localizedButton2String</key>
+				<string>lbl_tutorial_data_maybe_latter</string>
+				<key>button2Selector</key>
+				<string>tutorialFollowUsIsFinished</string>
+				<key>tipString</key>
+				<string>It&apos;s a great way to keep in touch, something to say ? Feel free to do so !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_great_way</string>
+				<key>tutorialSmallTitle</key>
+				<string>cause we do love you...</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_cause_we</string>
+				<key>tutorialMainTitle</key>
+				<string>Do you like this game ?</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_this_game</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>cloudSaving</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>You can secure your save game by &amp;Omanually saving on the &amp;Ocloud. Just &amp;Ptap this button from time to time.</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_can_secure</string>
+				<key>buttonString</key>
+				<string>Check Now</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_check_now</string>
+				<key>buttonSelector</key>
+				<string>tutorialSaveNow</string>
+				<key>tutorialSmallTitle</key>
+				<string>Securing game data</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_game_data</string>
+				<key>tutorialMainTitle</key>
+				<string>Cloud Saving</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_cloud_saving</string>
+				<key>tipString</key>
+				<string>You can only load back datas from a &amp;Ofresh &amp;Oinstall or &amp;Onew &amp;Odevices.</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_load_back</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<false/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>hireFriendsForShop</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>You can hire your &amp;Ofacebook &amp;Ofriends to work at your shop. </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_can_hire</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Helpful friends !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_helpful_friends</string>
+				<key>tutorialMainTitle</key>
+				<string>Improving Shop</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_improving_shop</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Click on a &amp;Ojob &amp;Ooffer and &amp;Ptap the hire button !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_job_offer</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tutorialSmallTitle</key>
+				<string>Special Order for Special Customer</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_special_order</string>
+				<key>tutorialMainTitle</key>
+				<string>Quest</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_quest</string>
+				<key>characterIndex</key>
+				<integer>16</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>likeOnFacebook</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Dat factory is SO &amp;OBATTYSWAG !! You&apos;re a TRUE PLAYA !!! </string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_true_playa</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>Everybody needs some friends !</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_needs_friends</string>
+				<key>tutorialMainTitle</key>
+				<string>Join the community</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_join_community</string>
+				<key>characterIndex</key>
+				<integer>1</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<false/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>tipString</key>
+				<string>Listen to &amp;PFat &amp;PCheeZ !!! he&apos;s a &amp;YSTAR !!</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_he_star</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Wanna get &amp;P&amp;210 &amp;P&amp;2free &amp;P&amp;2donuts ? Like the &amp;Bfacebook &amp;BCommunity and make some &amp;Ofriends !</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_wanna_get</string>
+				<key>buttonString</key>
+				<string>Like us!</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_like_us</string>
+				<key>buttonSelector</key>
+				<string>tutorialLikeUsOnFacebook</string>
+				<key>button2String</key>
+				<string>No thanks..</string>
+				<key>localizedButton2String</key>
+				<string>lbl_tutorial_data_no_thanks</string>
+				<key>button2Selector</key>
+				<string>tutorialLikeUsOnFacebookIsFinished</string>
+				<key>tipString</key>
+				<string>Get news on &amp;Gupcoming &amp;Gcars before anyone else, &amp;Oshare your &amp;Ocode and make &amp;Onew &amp;Ofriends !</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_get_news</string>
+				<key>tutorialSmallTitle</key>
+				<string>cause we do love you...</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_cause_we</string>
+				<key>tutorialMainTitle</key>
+				<string>Do you like this game ?</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_you_like</string>
+				<key>characterIndex</key>
+				<integer>1</integer>
+				<key>isCharacterWorker</key>
+				<false/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>1weekComingBack</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>We&apos;re &amp;OSO &amp;OGLAD you&apos;re back ! Your employees and fans will be thrilled !!!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_be_thrilled</string>
+				<key>buttonString</key>
+				<string>Next</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>tutorialSmallTitle</key>
+				<string>We&apos;re so Happy to see you !!!!</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_so_happy</string>
+				<key>tutorialMainTitle</key>
+				<string>You&apos;re back !!</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_youre_back</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Now let&apos;s &amp;Obuild &amp;Osome &amp;Ocars together ! Let&apos;s flood the market !!!</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_data_lets_flood</string>
+				<key>buttonString</key>
+				<string>OK</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>tipString</key>
+				<string>remember : you&apos;ve  &amp;AZI&amp;&amp;2&amp;OGOTTA &amp;AZI&amp;&amp;2&amp;OBUILD&apos;EM &amp;AZI&amp;&amp;2&amp;OALL !!!!</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_data_remember_you</string>
+				<key>tutorialSmallTitle</key>
+				<string>We&apos;re so Happy !!!!</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_we_happy</string>
+				<key>tutorialMainTitle</key>
+				<string>You&apos;re back !!</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_youre_back</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonSelector</key>
+				<string>endTutoComingBack</string>
+			</dict>
+		</array>
+		<key>workerCrafting</key>
+		<array>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_crafting_1</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_science_items</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_crafting_title</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_crafting_2</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_science_items</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_the_lab</string>
+				<key>buttonDisplayNextPage</key>
+				<false/>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonSelector</key>
+				<string>waitForClickRecipeCard</string>
+			</dict>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_crafting_3</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_science_items</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_the_lab</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonSelector</key>
+				<string>waitForCloseComponent</string>
+			</dict>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_crafting_4</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_science_items</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_the_lab</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonSelector</key>
+				<string>waitForClickCraftButton</string>
+			</dict>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_crafting_5</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_science_items</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_the_lab</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonSelector</key>
+				<string>waitForComeBackMenu</string>
+			</dict>
+		</array>
+		<key>workerCraftingEnd</key>
+		<array>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_crafting_6</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_science_items</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_the_lab</string>
+				<key>characterIndex</key>
+				<integer>4</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonSelector</key>
+				<string>finishedTutorial</string>
+			</dict>
+		</array>
+		<key>fuseWorker</key>
+		<array>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_fuseWorker_1</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_fuseWorker_title</string>
+				<key>characterIndex</key>
+				<integer>9</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<false/>
+				<key>buttonSelector</key>
+				<string>waitForGoingToFuse</string>
+			</dict>
+		</array>
+		<key>startFusion</key>
+		<array>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_fuseWorker_2</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_fuseWorker_title</string>
+				<key>characterIndex</key>
+				<integer>9</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonDisplayNextPage</key>
+				<false/>
+			</dict>
+		</array>
+		<key>showFuseDetails</key>
+		<array>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_fuseWorker_3</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_fuseWorker_title</string>
+				<key>characterIndex</key>
+				<integer>9</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+				<key>buttonSelector</key>
+				<string>tutorialFuseShowStats</string>
+			</dict>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_fuseWorker_4</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_data_new_cars</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_data_car_breeding</string>
+				<key>characterIndex</key>
+				<integer>9</integer>
+				<key>buttonSelector</key>
+				<string>tutorialFuseFinished</string>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>gachaWorker</key>
+		<array>
+			<dict>
+				<key>localizedTutorialMainTitle</key>
+				<string>title_tutorial_gacha</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_gacha_1</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>17</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>localizedTutorialMainTitle</key>
+				<string>title_tutorial_gacha</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_gacha_2</string>
+				<key>localizedButtonString</key>
+				<string>lbl_tutorial_data_button_next</string>
+				<key>buttonDisplayNextPage</key>
+				<true/>
+				<key>characterIndex</key>
+				<integer>17</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>localizedTutorialMainTitle</key>
+				<string>title_tutorial_gacha</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_gacha_3</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>buttonDisplayNextPage</key>
+				<false/>
+				<key>characterIndex</key>
+				<integer>17</integer>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>menuOptionTutorial</key>
+		<array>
+			<dict>
+				<key>localizedText</key>
+				<string>lbl_tutorial_menu_setting</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_menu_setting_smallTitle</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_menu_setting_mainTitle</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_menu_setting_tips</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<false/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+		<key>linkGame</key>
+		<array>
+			<dict>
+				<key>buttonSelector</key>
+				<string>linkGame</string>
+				<key>localizedText</key>
+				<string>lbl_tutorial_linkGame</string>
+				<key>localizedButtonString</key>
+				<string>btn_ok</string>
+				<key>localizedTutorialSmallTitle</key>
+				<string>lbl_tutorial_linkGame_smallTitle</string>
+				<key>localizedTutorialMainTitle</key>
+				<string>lbl_tutorial_linkGame_mainTitle</string>
+				<key>localizedTipString</key>
+				<string>lbl_tutorial_linkGame_tips</string>
+				<key>characterIndex</key>
+				<integer>2</integer>
+				<key>buttonDisplayNextPage</key>
+				<false/>
+				<key>isCharacterWorker</key>
+				<true/>
+				<key>displayDarkBg</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
